@@ -1,2 +1,2 @@
-# primer_scheme
-A repository for primer schemes
+# primer_schemes
+A repository for hosting various pathonge primer schemes
