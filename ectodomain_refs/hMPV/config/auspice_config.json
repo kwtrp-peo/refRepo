@@ -1,0 +1,40 @@
+{
+  "title": "Viralphyl Genotype Analysis Output for  Human metapneumovirus (hMPV)",
+  "maintainers": [
+    {"name": "kwtrp-peo", "url": "https://github.com/kwtrp-peo/"}
+  ],
+  "build_url": "https://github.com/kwtrp-peo/viralphyl",
+  "colorings": [
+    {
+      "key": "genotype",
+      "title": "Genotype",
+      "type": "categorical"
+    },
+    {
+      "key": "author",
+      "title": "Author",
+      "type": "categorical"
+    },
+    {
+      "key": "country",
+      "title": "Country",
+      "type": "categorical"
+    },
+    {
+      "key": "region",
+      "title": "Region",
+      "type": "categorical"
+    }
+  ],
+  "panels": [
+     "tree",
+     "map",
+     "entropy"
+  ],
+  "filters": [
+    "country",
+    "region",
+    "author",
+    "genotype"
+  ]
+}

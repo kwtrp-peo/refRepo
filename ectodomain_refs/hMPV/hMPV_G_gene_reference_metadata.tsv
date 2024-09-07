@@ -1,139 +1,271 @@
-sequenceID	strain	clade	date	accession	country	region	cohort	age	author
-OM243134.1|B2a|Spain|2017-05-24	NSVH2017-21-83700	B2a	2017-05-24	OM243134.1	Spain	Europe	Paediatric patient	2 - 4 y/o	Maria Piñana et al.
-MN617461.1|B2a|Spain|2016-03-31	NSVH2016-13-93371	B2a	2016-03-31	MN617461.1	Spain	Europe	Adult patient	15 - 64 y/o	Maria Piñana et al.
-MN617558.1|B2a|Spain|2017-03-12	NSVH2017-11-86988	B2a	2017-03-12	MN617558.1	Spain	Europe	Paediatric patient	5 - 14 y/o	Maria Piñana et al.
-MN617404.1|B2a|Spain|2015-03-05	NSVH2015-10-78755	B2a	2015-03-05	MN617404.1	Spain	Europe	Adult patient	15 - 64 y/o	Maria Piñana et al.
-OM243334.1|B2a|Spain|2018-04-05	NSVH2018-14-09634	B2a	2018-04-05	OM243334.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
-OM243324.1|B2b|Spain|2018-04-03	NSVH2018-14-07931	B2b	2018-04-03	OM243324.1	Spain	Europe	Paediatric patient	5 - 14 y/o	Maria Piñana et al.
-MN617545.1|B2b|Spain|2017-02-27	NSVH2017-09-79293	B2b	2017-02-27	MN617545.1	Spain	Europe	Paediatric patient	5 - 14 y/o	Maria Piñana et al.
-OM243140.1|B2b|Spain|2017-08-30	NSVH2017-35-79132	B2b	2017-08-30	OM243140.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
-OM243412.1|B2b|Spain|2019-02-19	NSVH2019-08-88595	B2b	2019-02-19	OM243412.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
-OM243138.1|B2b|Spain|2017-07-10	NSVH2017-28-04451	B2b	2017-07-10	OM243138.1	Spain	Europe	Paediatric patient	2 - 4 y/o	Maria Piñana et al.
-OM243349.1|B2b|Spain|2018-04-13	NSVH2018-15-25634	B2b	2018-04-13	OM243349.1	Spain	Europe	Paediatric patient	2 - 4 y/o	Maria Piñana et al.
-OM243389.1|B2b|Spain|2018-12-18	NSVH2018-51-49868	B2b	2018-12-18	OM243389.1	Spain	Europe	Paediatric patient	2 - 4 y/o	Maria Piñana et al.
-OM243630.1|B2b|Spain|2020-03-11	NSVH2020-11-08473	B2b	2020-03-11	OM243630.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
-OM243541.1|B2b|Spain|2020-01-15	NSVH2020-03-72487	B2b	2020-01-15	OM243541.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
-MN617563.1|B2b|Spain|2017-03-29	NSVH2017-13-59312	B2b	2017-03-29	MN617563.1	Spain	Europe	Paediatric patient	0 - 2 y/o	Maria Piñana et al.
-OM243399.1|B2b|Spain|2019-02-02	NSVH2019-05-77689	B2b	2019-02-02	OM243399.1	Spain	Europe	Paediatric patient	0 - 2 y/o	Maria Piñana et al.
-MN617494.1|B2b|Spain|2016-12-28	NSVH2016-52-42371	B2b	2016-12-28	MN617494.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
-OM243329.1|B2b|Spain|2018-04-04	NSVH2018-14-08563	B2b	2018-04-04	OM243329.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
-OM243210.1|B2b|Spain|2018-02-27	NSVH2018-09-86997	B2b	2018-02-27	OM243210.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
-OM243537.1|B2b|Spain|2020-01-06	NSVH2020-02-67101	B2b	2020-01-06	OM243537.1	Spain	Europe	Paediatric patient	2 - 4 y/o	Maria Piñana et al.
-MN617522.1|B2b|Spain|2017-02-06	NSVH2017-06-68009	B2b	2017-02-06	MN617522.1	Spain	Europe	Paediatric patient	0 - 2 y/o	Maria Piñana et al.
-OM243133.1|B2b|Spain|2017-05-22	NSVH2017-21-82287	B2b	2017-05-22	OM243133.1	Spain	Europe	Paediatric patient	0 - 2 y/o	Maria Piñana et al.
-OM243321.1|B2b|Spain|2018-04-01	NSVH2018-14-06968	B2b	2018-04-01	OM243321.1	Spain	Europe	Paediatric patient	0 - 2 y/o	Maria Piñana et al.
-OM243557.1|B2b|Spain|2020-01-31	NSVH2020-05-83627	B2b	2020-01-31	OM243557.1	Spain	Europe	Paediatric patient	0 - 2 y/o	Maria Piñana et al.
-OM243313.1|B2b|Spain|2018-03-30	NSVH2018-13-05965	B2b	2018-03-30	OM243313.1	Spain	Europe	Paediatric patient	0 - 2 y/o	Maria Piñana et al.
-OM243432.1|B2b|Spain|2019-03-06	NSVH2019-10-97991	B2b	2019-03-06	OM243432.1	Spain	Europe	Adult patient	15 - 64 y/o	Maria Piñana et al.
-OM243569.1|B2b|Spain|2020-02-10	NSVH2020-07-89708	B2b	2020-02-10	OM243569.1	Spain	Europe	Paediatric patient	2 - 4 y/o	Maria Piñana et al.
-MN617553.1|B2b|Spain|2017-03-05	NSVH2017-10-82764	B2b	2017-03-05	MN617553.1	Spain	Europe	Paediatric patient	2 - 4 y/o	Maria Piñana et al.
-MN617549.1|B2b|Spain|2017-02-28	NSVH2017-09-79908	B2b	2017-02-28	MN617549.1	Spain	Europe	Paediatric patient	2 - 4 y/o	Maria Piñana et al.
-OM243579.1|B2b|Spain|2020-02-19	NSVH2020-08-95261	B2b	2020-02-19	OM243579.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
-OM243632.1|B2b|Spain|2020-03-12	NSVH2020-11-08772	B2b	2020-03-12	OM243632.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
-OM243393.1|B2b|Spain|2019-01-16	NSVH2019-03-66384	B2b	2019-01-16	OM243393.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
-OM243571.1|B2b|Spain|2020-02-12	NSVH2020-07-91096	B2b	2020-02-12	OM243571.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
-MN617473.1|B1|Spain|2016-05-17	NSVH2016-20-20267	B1	2016-05-17	MN617473.1	Spain	Europe	Adult patient	15 - 64 y/o	Maria Piñana et al.
-MN617413.1|B1|Spain|2015-03-29	NSVH2015-14-92585	B1	2015-03-29	MN617413.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
-OM243416.1|B1|Spain|2019-02-22	NSVH2019-08-90603	B1	2019-02-22	OM243416.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
-MN617515.1|B1|Spain|2017-01-23	NSVH2017-04-59510	B1	2017-01-23	MN617515.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
-OM243455.1|B1|Spain|2019-03-25	NSVH2019-13-09129	B1	2019-03-25	OM243455.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
-MN617489.1|B1|Spain|2016-12-23	NSVH2016-51-39875	B1	2016-12-23	MN617489.1	Spain	Europe	Paediatric patient	0 - 2 y/o	Maria Piñana et al.
-MN617505.1|B1|Spain|2017-01-08	NSVH2017-02-50160	B1	2017-01-08	MN617505.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
-OM243549.1|B1|Spain|2020-01-23	NSVH2020-04-77870	B1	2020-01-23	OM243549.1	Spain	Europe	Adult patient	15 - 64 y/o	Maria Piñana et al.
-OM243365.1|B1|Spain|2018-04-25	NSVH2018-17-20893	B1	2018-04-25	OM243365.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
-OM243490.1|B1|Spain|2019-04-27	NSVH2019-17-96390	B1	2019-04-27	OM243490.1	Spain	Europe	Paediatric patient	5 - 14 y/o	Maria Piñana et al.
-OM243536.1|B1|Spain|2020-01-04	NSVH2020-01-66298	B1	2020-01-04	OM243536.1	Spain	Europe	Paediatric patient	0 - 2 y/o	Maria Piñana et al.
-OM243388.1|B1|Spain|2018-12-09	NSVH2018-50-44262	B1	2018-12-09	OM243388.1	Spain	Europe	Paediatric patient	2 - 4 y/o	Maria Piñana et al.
-OM243496.1|B1|Spain|2019-05-06	NSVH2019-19-00724	B1	2019-05-06	OM243496.1	Spain	Europe	Adult patient	15 - 64 y/o	Maria Piñana et al.
-OM243401.1|B1|Spain|2019-02-05	NSVH2019-06-80019	B1	2019-02-05	OM243401.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
-OM243434.1|B1|Spain|2019-03-10	NSVH2019-11-00079	B1	2019-03-10	OM243434.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
-MN617497.1|B1|Spain|2017-01-01	NSVH2017-01-45573	B1	2017-01-01	MN617497.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
-MN617540.1|B1|Spain|2017-02-22	NSVH2017-08-76907	B1	2017-02-22	MN617540.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
-OM243640.1|B1|Spain|2020-03-16	NSVH2020-12-11099	B1	2020-03-16	OM243640.1	Spain	Europe	Adult patient	15 - 64 y/o	Maria Piñana et al.
-OM243647.1|B1|Spain|2021-03-15	NSVH2021-11-89789	B1	2021-03-15	OM243647.1	Spain	Europe	Paediatric patient	2 - 4 y/o	Maria Piñana et al.
-OM243650.1|B1|Spain|2021-03-27	NSVH2021-12-99489	B1	2021-03-27	OM243650.1	Spain	Europe	Paediatric patient	5 - 14 y/o	Maria Piñana et al.
-OM243259.1|B1|Spain|2018-03-12	NSVH2018-11-95421	B1	2018-03-12	OM243259.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
-OM243461.1|B1|Spain|2019-03-29	NSVH2019-13-11362	B1	2019-03-29	OM243461.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
-OM243150.1|B1|Spain|2017-12-29	NSVH2017-52-48378	B1	2017-12-29	OM243150.1	Spain	Europe	Paediatric patient	0 - 2 y/o	Maria Piñana et al.
-OM243468.1|B1|Spain|2019-04-01	NSVH2019-14-12832	B1	2019-04-01	OM243468.1	Spain	Europe	Adult patient	15 - 64 y/o	Maria Piñana et al.
-OM243604.1|B1|Spain|2020-02-26	NSVH2020-09-99591	B1	2020-02-26	OM243604.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
-OM243634.1|B1|Spain|2020-03-13	NSVH2020-11-09300	B1	2020-03-13	OM243634.1	Spain	Europe	Adult patient	15 - 64 y/o	Maria Piñana et al.
-OM243436.1|B1|Spain|2019-03-11	NSVH2019-11-00881	B1	2019-03-11	OM243436.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
-OM243584.1|B1|Spain|2020-02-20	NSVH2020-08-96033	B1	2020-02-20	OM243584.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
-OM243600.1|B1|Spain|2020-03-01	NSVH2020-09-02479	B1	2020-03-01	OM243600.1	Spain	Europe	Paediatric patient	2 - 4 y/o	Maria Piñana et al.
-OM243638.1|B1|Spain|2020-03-17	NSVH2020-12-04263	B1	2020-03-17	OM243638.1	Spain	Europe	Paediatric patient	0 - 2 y/o	Maria Piñana et al.
-OM243684.1|B1|Spain|2021-07-02	NSVH2021-26-72984	B1	2021-07-02	OM243684.1	Spain	Europe	Paediatric patient	2 - 4 y/o	Maria Piñana et al.
-OM243658.1|B1|Spain|2021-05-13	NSVH2021-19-35634	B1	2021-05-13	OM243658.1	Spain	Europe	Paediatric patient	5 - 14 y/o	Maria Piñana et al.
-OM243663.1|B1|Spain|2021-05-29	NSVH2021-21-48057	B1	2021-05-29	OM243663.1	Spain	Europe	Paediatric patient	5 - 14 y/o	Maria Piñana et al.
-MN617500.1|A2a|Spain|2017-01-04	NSVH2017-01-47577	A2a	2017-01-04	MN617500.1	Spain	Europe	Paediatric patient	0 - 2 y/o	Maria Piñana et al.
-MN617420.1|A2a|Spain|2015-04-21	NSVH2015-17-04680	A2a	2015-04-21	MN617420.1	Spain	Europe	Adult patient	15 - 64 y/o	Maria Piñana et al.
-MN617472.1|A2b|Spain|2016-05-10	NSVH2016-19-15897	A2b	2016-05-10	MN617472.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
-MN617428.1|A2b|Spain|2016-01-06	NSVH2016-01-62854	A2b	2016-01-06	MN617428.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
-OM243187.1|A2b|Spain|2018-02-17	NSVH2018-07-80508	A2b	2018-02-17	OM243187.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
-OM243288.1|A2b|Spain|2018-03-22	NSVH2018-12-01265	A2b	2018-03-22	OM243288.1	Spain	Europe	Paediatric patient	5 - 14 y/o	Maria Piñana et al.
-OM243195.1|A2b|Spain|2018-02-19	NSVH2018-08-81694	A2b	2018-02-19	OM243195.1	Spain	Europe	Paediatric patient	0 - 2 y/o	Maria Piñana et al.
-MN617455.1|A2b|Spain|2016-03-14	NSVH2016-11-82918	A2b	2016-03-14	MN617455.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
-MN617399.1|A2b|Spain|2015-01-15	NSVH2015-03-49921	A2b	2015-01-15	MN617399.1	Spain	Europe	Adult patient	15 - 64 y/o	Maria Piñana et al.
-MN617412.1|A2b|Spain|2015-03-29	NSVH2015-14-92438	A2b	2015-03-29	MN617412.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
-OM243131.1|A2b|Spain|2017-05-27	NSVH2017-21-28512	A2b	2017-05-27	OM243131.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
-MN617550.1|A2b|Spain|2017-03-01	NSVH2017-09-80934	A2b	2017-03-01	MN617550.1	Spain	Europe	Paediatric patient	0 - 2 y/o	Maria Piñana et al.
-MN617453.1|A2c-wt|Spain|2016-03-04	NSVH2016-09-76727	A2c-wt	2016-03-04	MN617453.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
-MN617445.1|A2c-wt|Spain|2016-02-27	NSVH2016-08-72572	A2c-wt	2016-02-27	MN617445.1	Spain	Europe	Adult patient	15 - 64 y/o	Maria Piñana et al.
-MN617488.1|A2c-wt|Spain|2016-12-18	NSVH2016-51-36225	A2c-wt	2016-12-18	MN617488.1	Spain	Europe	Paediatric patient	2 - 4 y/o	Maria Piñana et al.
-MN617560.1|A2c-wt|Spain|2017-03-22	NSVH2017-12-92835	A2c-wt	2017-03-22	MN617560.1	Spain	Europe	Paediatric patient	0 - 2 y/o	Maria Piñana et al.
-MN617491.1|A2c-wt|Spain|2016-12-26	NSVH2016-52-41412	A2c-wt	2016-12-26	MN617491.1	Spain	Europe	Paediatric patient	0 - 2 y/o	Maria Piñana et al.
-MN617568.1|A2c-wt|Spain|2017-04-09	NSVH2017-15-64358	A2c-wt	2017-04-09	MN617568.1	Spain	Europe	Paediatric patient	0 - 2 y/o	Maria Piñana et al.
-MN617451.1|A2c-wt|Spain|2016-03-03	NSVH2016-09-76221	A2c-wt	2016-03-03	MN617451.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
-MN617443.1|A2c-wt|Spain|2016-02-24	NSVH2016-08-70983	A2c-wt	2016-02-24	MN617443.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
-OM243385.1|A2c-dup180|Spain|2018-11-17	NSVH2018-46-31904	A2c-dup180	2018-11-17	OM243385.1	Spain	Europe	Paediatric patient	2 - 4 y/o	Maria Piñana et al.
-MN617487.1|A2c-dup180|Spain|2016-12-10	NSVH2016-49-31384	A2c-dup180	2016-12-10	MN617487.1	Spain	Europe	Paediatric patient	5 - 14 y/o	Maria Piñana et al.
-OM243280.1|A2c-dup180|Spain|2018-03-16	NSVH2018-11-98023	A2c-dup180	2018-03-16	OM243280.1	Spain	Europe	Paediatric patient	0 - 2 y/o	Maria Piñana et al.
-OM243523.1|A2c-dup180|Spain|2019-07-10	NSVH2019-28-68393	A2c-dup180	2019-07-10	OM243523.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
-MN617564.1|A2c-dup180|Spain|2017-03-26	NSVH2017-13-94486	A2c-dup180	2017-03-26	MN617564.1	Spain	Europe	Adult patient	15 - 64 y/o	Maria Piñana et al.
-OM243330.1|A2c-dup180|Spain|2018-04-04	NSVH2018-14-08584	A2c-dup180	2018-04-04	OM243330.1	Spain	Europe	Paediatric patient	5 - 14 y/o	Maria Piñana et al.
-OM243260.1|A2c-dup180|Spain|2018-03-12	NSVH2018-11-95428	A2c-dup180	2018-03-12	OM243260.1	Spain	Europe	Paediatric patient	0 - 2 y/o	Maria Piñana et al.
-OM243473.1|A2c-dup180|Spain|2019-04-04	NSVH2019-14-86877	A2c-dup180	2019-04-04	OM243473.1	Spain	Europe	Paediatric patient	2 - 4 y/o	Maria Piñana et al.
-OM243644.1|A2c-dup180|Spain|2020-11-11	NSVH2020-46-84282	A2c-dup180	2020-11-11	OM243644.1	Spain	Europe	Paediatric patient	0 - 2 y/o	Maria Piñana et al.
-MN617504.1|A2c-dup180|Spain|2017-01-07	NSVH2017-01-49296	A2c-dup180	2017-01-07	MN617504.1	Spain	Europe	Paediatric patient	0 - 2 y/o	Maria Piñana et al.
-OM243146.1|A2c-dup180|Spain|2017-12-24	NSVH2017-52-44594	A2c-dup180	2017-12-24	OM243146.1	Spain	Europe	Paediatric patient	0 - 2 y/o	Maria Piñana et al.
-OM243212.1|A2c-dup180|Spain|2018-03-01	NSVH2018-09-87799	A2c-dup180	2018-03-01	OM243212.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
-OM243450.1|A2c-dup180|Spain|2019-03-22	NSVH2019-12-07616	A2c-dup180	2019-03-22	OM243450.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
-OM243567.1|A2c-dup180|Spain|2020-02-11	NSVH2020-07-32026	A2c-dup180	2020-02-11	OM243567.1	Spain	Europe	Paediatric patient	0 - 2 y/o	Maria Piñana et al.
-OM243609.1|A2c-dup180|Spain|2020-03-04	NSVH2020-10-04438	A2c-dup180	2020-03-04	OM243609.1	Spain	Europe	Paediatric patient	2 - 4 y/o	Maria Piñana et al.
-OM243216.1|A2c-dup180|Spain|2018-03-02	NSVH2018-09-88866	A2c-dup180	2018-03-02	OM243216.1	Spain	Europe	Paediatric patient	5 - 14 y/o	Maria Piñana et al.
-MN617525.1|A2c-dup180|Spain|2017-02-11	NSVH2017-06-70558	A2c-dup180	2017-02-11	MN617525.1	Spain	Europe	Adult patient	15 - 64 y/o	Maria Piñana et al.
-OM243602.1|A2c-dup180|Spain|2020-02-24	NSVH2020-09-98623	A2c-dup180	2020-02-24	OM243602.1	Spain	Europe	Paediatric patient	2 - 4 y/o	Maria Piñana et al.
-MN617441.1|A2c-dup180|Spain|2016-02-23	NSVH2016-08-70085	A2c-dup180	2016-02-23	MN617441.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
-MN617510.1|A2c-dup180|Spain|2017-01-14	NSVH2017-02-54108	A2c-dup180	2017-01-14	MN617510.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
-MN617536.1|A2c-dup180|Spain|2017-02-19	NSVH2017-08-74865	A2c-dup180	2017-02-19	MN617536.1	Spain	Europe	Paediatric patient	0 - 2 y/o	Maria Piñana et al.
-OM243177.1|A2c-dup180|Spain|2018-02-02	NSVH2018-05-71097	A2c-dup180	2018-02-02	OM243177.1	Spain	Europe	Paediatric patient	2 - 4 y/o	Maria Piñana et al.
-OM243568.1|A2c-dup111|Spain|2020-02-10	NSVH2020-07-89537	A2c-dup111	2020-02-10	OM243568.1	Spain	Europe	Adult patient	15 - 64 y/o	Maria Piñana et al.
-OM243139.1|A2c-dup111|Spain|2017-08-14	NSVH2017-33-19288	A2c-dup111	2017-08-14	OM243139.1	Spain	Europe	Paediatric patient	0 - 2 y/o	Maria Piñana et al.
-OM243422.1|A2c-dup111|Spain|2019-02-26	NSVH2019-09-92847	A2c-dup111	2019-02-26	OM243422.1	Spain	Europe	Paediatric patient	2 - 4 y/o	Maria Piñana et al.
-MN617503.1|A2c-dup111|Spain|2017-01-05	NSVH2017-01-48356	A2c-dup111	2017-01-05	MN617503.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
-OM243404.1|A2c-dup111|Spain|2019-02-12	NSVH2019-07-84107	A2c-dup111	2019-02-12	OM243404.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
-OM243626.1|A2c-dup111|Spain|2020-03-10	NSVH2020-11-08043	A2c-dup111	2020-03-10	OM243626.1	Spain	Europe	Paediatric patient	2 - 4 y/o	Maria Piñana et al.
-OM243629.1|A2c-dup111|Spain|2020-03-11	NSVH2020-11-08320	A2c-dup111	2020-03-11	OM243629.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
-OM243428.1|A2c-dup111|Spain|2019-03-03	NSVH2019-10-95970	A2c-dup111	2019-03-03	OM243428.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
-MN617546.1|A2c-dup111|Spain|2017-02-27	NSVH2017-09-79466	A2c-dup111	2017-02-27	MN617546.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
-OM243352.1|A2c-dup111|Spain|2018-04-16	NSVH2018-16-15569	A2c-dup111	2018-04-16	OM243352.1	Spain	Europe	Adult patient	15 - 64 y/o	Maria Piñana et al.
-OM243620.1|A2c-dup111|Spain|2020-03-08	NSVH2020-10-46812	A2c-dup111	2020-03-08	OM243620.1	Spain	Europe	Paediatric patient	0 - 2 y/o	Maria Piñana et al.
-MN617535.1|A2c-dup111|Spain|2017-02-18	NSVH2017-07-74545	A2c-dup111	2017-02-18	MN617535.1	Spain	Europe	Paediatric patient	0 - 2 y/o	Maria Piñana et al.
-MN617460.1|A2c-dup111|Spain|2016-03-29	NSVH2016-13-91807	A2c-dup111	2016-03-29	MN617460.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
-OM243580.1|A2c-dup111|Spain|2020-02-19	NSVH2020-08-95402	A2c-dup111	2020-02-19	OM243580.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
-OM243621.1|A2c-dup111|Spain|2020-03-09	NSVH2020-11-06891	A2c-dup111	2020-03-09	OM243621.1	Spain	Europe	Paediatric patient	0 - 2 y/o	Maria Piñana et al.
-OM243202.1|A2c-dup111|Spain|2018-02-22	NSVH2018-08-84195	A2c-dup111	2018-02-22	OM243202.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
-OM243304.1|A2c-dup111|Spain|2018-03-26	NSVH2018-13-03529	A2c-dup111	2018-03-26	OM243304.1	Spain	Europe	Adult patient	15 - 64 y/o	Maria Piñana et al.
-OM243368.1|A2c-dup111|Spain|2018-04-26	NSVH2018-17-31673	A2c-dup111	2018-04-26	OM243368.1	Spain	Europe	Paediatric patient	2 - 4 y/o	Maria Piñana et al.
-OM243484.1|A2c-dup111|Spain|2019-04-15	NSVH2019-16-91745	A2c-dup111	2019-04-15	OM243484.1	Spain	Europe	Paediatric patient	0 - 2 y/o	Maria Piñana et al.
-OM243653.1|A2c-dup111|Spain|2021-04-20	NSVH2021-16-17990	A2c-dup111	2021-04-20	OM243653.1	Spain	Europe	Paediatric patient	2 - 4 y/o	Maria Piñana et al.
-OM243655.1|A2c-dup111|Spain|2021-05-06	NSVH2021-18-30664	A2c-dup111	2021-05-06	OM243655.1	Spain	Europe	Paediatric patient	2 - 4 y/o	Maria Piñana et al.
-OM243676.1|A2c-dup111|Spain|2021-06-20	NSVH2021-24-64426	A2c-dup111	2021-06-20	OM243676.1	Spain	Europe	Paediatric patient	2 - 4 y/o	Maria Piñana et al.
-OM243648.1|A2c-dup111|Spain|2021-03-28	NSVH2021-12-00394	A2c-dup111	2021-03-28	OM243648.1	Spain	Europe	Paediatric patient	2 - 4 y/o	Maria Piñana et al.
-OM243683.1|A2c-dup111|Spain|2021-06-30	NSVH2021-26-71532	A2c-dup111	2021-06-30	OM243683.1	Spain	Europe	Paediatric patient	5 - 14 y/o	Maria Piñana et al.
-OM243805.1|A2c-dup111|Spain|2021-01-01	NSVH2021-53-29476	A2c-dup111	2021-01-01	OM243805.1	Spain	Europe	Paediatric patient	2 - 4 y/o	Maria Piñana et al.
-OM243670.1|A2c-dup111|Spain|2021-06-11	NSVH2021-23-57574	A2c-dup111	2021-06-11	OM243670.1	Spain	Europe	Paediatric patient	2 - 4 y/o	Maria Piñana et al.
-OM243651.1|A2c-dup111|Spain|2021-04-05	NSVH2021-14-06199	A2c-dup111	2021-04-05	OM243651.1	Spain	Europe	Paediatric patient	0 - 2 y/o	Maria Piñana et al.
-OM243672.1|A2c-dup111|Spain|2021-06-13	NSVH2021-23-59361	A2c-dup111	2021-06-13	OM243672.1	Spain	Europe	Paediatric patient	5 - 14 y/o	Maria Piñana et al.
-OM243665.1|A2c-dup111|Spain|2021-05-30	NSVH2021-21-48814	A2c-dup111	2021-05-30	OM243665.1	Spain	Europe	Paediatric patient	2 - 4 y/o	Maria Piñana et al.
-OM243682.1|A2c-dup111|Spain|2021-06-29	NSVH2021-26-70881	A2c-dup111	2021-06-29	OM243682.1	Spain	Europe	Paediatric patient	2 - 4 y/o	Maria Piñana et al.
+strain	genotype	date	accession	country	region	cohort	age	author
+OM243134.1|B2a|Spain|2017-05-24	B2a	2017-05-24	OM243134.1	Spain	Europe	Paediatric patient	2 - 4 y/o	Maria Piñana et al.
+MN617461.1|B2a|Spain|2016-03-31	B2a	2016-03-31	MN617461.1	Spain	Europe	Adult patient	15 - 64 y/o	Maria Piñana et al.
+MN617558.1|B2a|Spain|2017-03-12	B2a	2017-03-12	MN617558.1	Spain	Europe	Paediatric patient	5 - 14 y/o	Maria Piñana et al.
+MN617404.1|B2a|Spain|2015-03-05	B2a	2015-03-05	MN617404.1	Spain	Europe	Adult patient	15 - 64 y/o	Maria Piñana et al.
+OM243334.1|B2a|Spain|2018-04-05	B2a	2018-04-05	OM243334.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
+OM243324.1|B2b|Spain|2018-04-03	B2b	2018-04-03	OM243324.1	Spain	Europe	Paediatric patient	5 - 14 y/o	Maria Piñana et al.
+MN617545.1|B2b|Spain|2017-02-27	B2b	2017-02-27	MN617545.1	Spain	Europe	Paediatric patient	5 - 14 y/o	Maria Piñana et al.
+OM243140.1|B2b|Spain|2017-08-30	B2b	2017-08-30	OM243140.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
+OM243412.1|B2b|Spain|2019-02-19	B2b	2019-02-19	OM243412.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
+OM243138.1|B2b|Spain|2017-07-10	B2b	2017-07-10	OM243138.1	Spain	Europe	Paediatric patient	2 - 4 y/o	Maria Piñana et al.
+OM243349.1|B2b|Spain|2018-04-13	B2b	2018-04-13	OM243349.1	Spain	Europe	Paediatric patient	2 - 4 y/o	Maria Piñana et al.
+OM243389.1|B2b|Spain|2018-12-18	B2b	2018-12-18	OM243389.1	Spain	Europe	Paediatric patient	2 - 4 y/o	Maria Piñana et al.
+OM243630.1|B2b|Spain|2020-03-11	B2b	2020-03-11	OM243630.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
+OM243541.1|B2b|Spain|2020-01-15	B2b	2020-01-15	OM243541.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
+MN617563.1|B2b|Spain|2017-03-29	B2b	2017-03-29	MN617563.1	Spain	Europe	Paediatric patient	0 - 2 y/o	Maria Piñana et al.
+OM243399.1|B2b|Spain|2019-02-02	B2b	2019-02-02	OM243399.1	Spain	Europe	Paediatric patient	0 - 2 y/o	Maria Piñana et al.
+MN617494.1|B2b|Spain|2016-12-28	B2b	2016-12-28	MN617494.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
+OM243329.1|B2b|Spain|2018-04-04	B2b	2018-04-04	OM243329.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
+OM243210.1|B2b|Spain|2018-02-27	B2b	2018-02-27	OM243210.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
+OM243537.1|B2b|Spain|2020-01-06	B2b	2020-01-06	OM243537.1	Spain	Europe	Paediatric patient	2 - 4 y/o	Maria Piñana et al.
+MN617522.1|B2b|Spain|2017-02-06	B2b	2017-02-06	MN617522.1	Spain	Europe	Paediatric patient	0 - 2 y/o	Maria Piñana et al.
+OM243133.1|B2b|Spain|2017-05-22	B2b	2017-05-22	OM243133.1	Spain	Europe	Paediatric patient	0 - 2 y/o	Maria Piñana et al.
+OM243321.1|B2b|Spain|2018-04-01	B2b	2018-04-01	OM243321.1	Spain	Europe	Paediatric patient	0 - 2 y/o	Maria Piñana et al.
+OM243557.1|B2b|Spain|2020-01-31	B2b	2020-01-31	OM243557.1	Spain	Europe	Paediatric patient	0 - 2 y/o	Maria Piñana et al.
+OM243313.1|B2b|Spain|2018-03-30	B2b	2018-03-30	OM243313.1	Spain	Europe	Paediatric patient	0 - 2 y/o	Maria Piñana et al.
+OM243432.1|B2b|Spain|2019-03-06	B2b	2019-03-06	OM243432.1	Spain	Europe	Adult patient	15 - 64 y/o	Maria Piñana et al.
+OM243569.1|B2b|Spain|2020-02-10	B2b	2020-02-10	OM243569.1	Spain	Europe	Paediatric patient	2 - 4 y/o	Maria Piñana et al.
+MN617553.1|B2b|Spain|2017-03-05	B2b	2017-03-05	MN617553.1	Spain	Europe	Paediatric patient	2 - 4 y/o	Maria Piñana et al.
+MN617549.1|B2b|Spain|2017-02-28	B2b	2017-02-28	MN617549.1	Spain	Europe	Paediatric patient	2 - 4 y/o	Maria Piñana et al.
+OM243579.1|B2b|Spain|2020-02-19	B2b	2020-02-19	OM243579.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
+OM243632.1|B2b|Spain|2020-03-12	B2b	2020-03-12	OM243632.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
+OM243393.1|B2b|Spain|2019-01-16	B2b	2019-01-16	OM243393.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
+OM243571.1|B2b|Spain|2020-02-12	B2b	2020-02-12	OM243571.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
+MN617473.1|B1|Spain|2016-05-17	B1	2016-05-17	MN617473.1	Spain	Europe	Adult patient	15 - 64 y/o	Maria Piñana et al.
+MN617413.1|B1|Spain|2015-03-29	B1	2015-03-29	MN617413.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
+OM243416.1|B1|Spain|2019-02-22	B1	2019-02-22	OM243416.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
+MN617515.1|B1|Spain|2017-01-23	B1	2017-01-23	MN617515.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
+OM243455.1|B1|Spain|2019-03-25	B1	2019-03-25	OM243455.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
+MN617489.1|B1|Spain|2016-12-23	B1	2016-12-23	MN617489.1	Spain	Europe	Paediatric patient	0 - 2 y/o	Maria Piñana et al.
+MN617505.1|B1|Spain|2017-01-08	B1	2017-01-08	MN617505.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
+OM243549.1|B1|Spain|2020-01-23	B1	2020-01-23	OM243549.1	Spain	Europe	Adult patient	15 - 64 y/o	Maria Piñana et al.
+OM243365.1|B1|Spain|2018-04-25	B1	2018-04-25	OM243365.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
+OM243490.1|B1|Spain|2019-04-27	B1	2019-04-27	OM243490.1	Spain	Europe	Paediatric patient	5 - 14 y/o	Maria Piñana et al.
+OM243536.1|B1|Spain|2020-01-04	B1	2020-01-04	OM243536.1	Spain	Europe	Paediatric patient	0 - 2 y/o	Maria Piñana et al.
+OM243388.1|B1|Spain|2018-12-09	B1	2018-12-09	OM243388.1	Spain	Europe	Paediatric patient	2 - 4 y/o	Maria Piñana et al.
+OM243496.1|B1|Spain|2019-05-06	B1	2019-05-06	OM243496.1	Spain	Europe	Adult patient	15 - 64 y/o	Maria Piñana et al.
+OM243401.1|B1|Spain|2019-02-05	B1	2019-02-05	OM243401.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
+OM243434.1|B1|Spain|2019-03-10	B1	2019-03-10	OM243434.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
+MN617497.1|B1|Spain|2017-01-01	B1	2017-01-01	MN617497.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
+MN617540.1|B1|Spain|2017-02-22	B1	2017-02-22	MN617540.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
+OM243640.1|B1|Spain|2020-03-16	B1	2020-03-16	OM243640.1	Spain	Europe	Adult patient	15 - 64 y/o	Maria Piñana et al.
+OM243647.1|B1|Spain|2021-03-15	B1	2021-03-15	OM243647.1	Spain	Europe	Paediatric patient	2 - 4 y/o	Maria Piñana et al.
+OM243650.1|B1|Spain|2021-03-27	B1	2021-03-27	OM243650.1	Spain	Europe	Paediatric patient	5 - 14 y/o	Maria Piñana et al.
+OM243259.1|B1|Spain|2018-03-12	B1	2018-03-12	OM243259.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
+OM243461.1|B1|Spain|2019-03-29	B1	2019-03-29	OM243461.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
+OM243150.1|B1|Spain|2017-12-29	B1	2017-12-29	OM243150.1	Spain	Europe	Paediatric patient	0 - 2 y/o	Maria Piñana et al.
+OM243468.1|B1|Spain|2019-04-01	B1	2019-04-01	OM243468.1	Spain	Europe	Adult patient	15 - 64 y/o	Maria Piñana et al.
+OM243604.1|B1|Spain|2020-02-26	B1	2020-02-26	OM243604.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
+OM243634.1|B1|Spain|2020-03-13	B1	2020-03-13	OM243634.1	Spain	Europe	Adult patient	15 - 64 y/o	Maria Piñana et al.
+OM243436.1|B1|Spain|2019-03-11	B1	2019-03-11	OM243436.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
+OM243584.1|B1|Spain|2020-02-20	B1	2020-02-20	OM243584.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
+OM243600.1|B1|Spain|2020-03-01	B1	2020-03-01	OM243600.1	Spain	Europe	Paediatric patient	2 - 4 y/o	Maria Piñana et al.
+OM243638.1|B1|Spain|2020-03-17	B1	2020-03-17	OM243638.1	Spain	Europe	Paediatric patient	0 - 2 y/o	Maria Piñana et al.
+OM243684.1|B1|Spain|2021-07-02	B1	2021-07-02	OM243684.1	Spain	Europe	Paediatric patient	2 - 4 y/o	Maria Piñana et al.
+OM243658.1|B1|Spain|2021-05-13	B1	2021-05-13	OM243658.1	Spain	Europe	Paediatric patient	5 - 14 y/o	Maria Piñana et al.
+OM243663.1|B1|Spain|2021-05-29	B1	2021-05-29	OM243663.1	Spain	Europe	Paediatric patient	5 - 14 y/o	Maria Piñana et al.
+MN617500.1|A2a|Spain|2017-01-04	A2a	2017-01-04	MN617500.1	Spain	Europe	Paediatric patient	0 - 2 y/o	Maria Piñana et al.
+MN617420.1|A2a|Spain|2015-04-21	A2a	2015-04-21	MN617420.1	Spain	Europe	Adult patient	15 - 64 y/o	Maria Piñana et al.
+MN617472.1|A2b|Spain|2016-05-10	A2b	2016-05-10	MN617472.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
+MN617428.1|A2b|Spain|2016-01-06	A2b	2016-01-06	MN617428.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
+OM243187.1|A2b|Spain|2018-02-17	A2b	2018-02-17	OM243187.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
+OM243288.1|A2b|Spain|2018-03-22	A2b	2018-03-22	OM243288.1	Spain	Europe	Paediatric patient	5 - 14 y/o	Maria Piñana et al.
+OM243195.1|A2b|Spain|2018-02-19	A2b	2018-02-19	OM243195.1	Spain	Europe	Paediatric patient	0 - 2 y/o	Maria Piñana et al.
+MN617455.1|A2b|Spain|2016-03-14	A2b	2016-03-14	MN617455.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
+MN617399.1|A2b|Spain|2015-01-15	A2b	2015-01-15	MN617399.1	Spain	Europe	Adult patient	15 - 64 y/o	Maria Piñana et al.
+MN617412.1|A2b|Spain|2015-03-29	A2b	2015-03-29	MN617412.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
+OM243131.1|A2b|Spain|2017-05-27	A2b	2017-05-27	OM243131.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
+MN617550.1|A2b|Spain|2017-03-01	A2b	2017-03-01	MN617550.1	Spain	Europe	Paediatric patient	0 - 2 y/o	Maria Piñana et al.
+MN617453.1|A2c-wt|Spain|2016-03-04	A2c-wt	2016-03-04	MN617453.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
+MN617445.1|A2c-wt|Spain|2016-02-27	A2c-wt	2016-02-27	MN617445.1	Spain	Europe	Adult patient	15 - 64 y/o	Maria Piñana et al.
+MN617488.1|A2c-wt|Spain|2016-12-18	A2c-wt	2016-12-18	MN617488.1	Spain	Europe	Paediatric patient	2 - 4 y/o	Maria Piñana et al.
+MN617560.1|A2c-wt|Spain|2017-03-22	A2c-wt	2017-03-22	MN617560.1	Spain	Europe	Paediatric patient	0 - 2 y/o	Maria Piñana et al.
+MN617491.1|A2c-wt|Spain|2016-12-26	A2c-wt	2016-12-26	MN617491.1	Spain	Europe	Paediatric patient	0 - 2 y/o	Maria Piñana et al.
+MN617568.1|A2c-wt|Spain|2017-04-09	A2c-wt	2017-04-09	MN617568.1	Spain	Europe	Paediatric patient	0 - 2 y/o	Maria Piñana et al.
+MN617451.1|A2c-wt|Spain|2016-03-03	A2c-wt	2016-03-03	MN617451.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
+MN617443.1|A2c-wt|Spain|2016-02-24	A2c-wt	2016-02-24	MN617443.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
+OM243385.1|A2c-dup180|Spain|2018-11-17	A2c-dup180	2018-11-17	OM243385.1	Spain	Europe	Paediatric patient	2 - 4 y/o	Maria Piñana et al.
+MN617487.1|A2c-dup180|Spain|2016-12-10	A2c-dup180	2016-12-10	MN617487.1	Spain	Europe	Paediatric patient	5 - 14 y/o	Maria Piñana et al.
+OM243280.1|A2c-dup180|Spain|2018-03-16	A2c-dup180	2018-03-16	OM243280.1	Spain	Europe	Paediatric patient	0 - 2 y/o	Maria Piñana et al.
+OM243523.1|A2c-dup180|Spain|2019-07-10	A2c-dup180	2019-07-10	OM243523.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
+MN617564.1|A2c-dup180|Spain|2017-03-26	A2c-dup180	2017-03-26	MN617564.1	Spain	Europe	Adult patient	15 - 64 y/o	Maria Piñana et al.
+OM243330.1|A2c-dup180|Spain|2018-04-04	A2c-dup180	2018-04-04	OM243330.1	Spain	Europe	Paediatric patient	5 - 14 y/o	Maria Piñana et al.
+OM243260.1|A2c-dup180|Spain|2018-03-12	A2c-dup180	2018-03-12	OM243260.1	Spain	Europe	Paediatric patient	0 - 2 y/o	Maria Piñana et al.
+OM243473.1|A2c-dup180|Spain|2019-04-04	A2c-dup180	2019-04-04	OM243473.1	Spain	Europe	Paediatric patient	2 - 4 y/o	Maria Piñana et al.
+OM243644.1|A2c-dup180|Spain|2020-11-11	A2c-dup180	2020-11-11	OM243644.1	Spain	Europe	Paediatric patient	0 - 2 y/o	Maria Piñana et al.
+MN617504.1|A2c-dup180|Spain|2017-01-07	A2c-dup180	2017-01-07	MN617504.1	Spain	Europe	Paediatric patient	0 - 2 y/o	Maria Piñana et al.
+OM243146.1|A2c-dup180|Spain|2017-12-24	A2c-dup180	2017-12-24	OM243146.1	Spain	Europe	Paediatric patient	0 - 2 y/o	Maria Piñana et al.
+OM243212.1|A2c-dup180|Spain|2018-03-01	A2c-dup180	2018-03-01	OM243212.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
+OM243450.1|A2c-dup180|Spain|2019-03-22	A2c-dup180	2019-03-22	OM243450.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
+OM243567.1|A2c-dup180|Spain|2020-02-11	A2c-dup180	2020-02-11	OM243567.1	Spain	Europe	Paediatric patient	0 - 2 y/o	Maria Piñana et al.
+OM243609.1|A2c-dup180|Spain|2020-03-04	A2c-dup180	2020-03-04	OM243609.1	Spain	Europe	Paediatric patient	2 - 4 y/o	Maria Piñana et al.
+OM243216.1|A2c-dup180|Spain|2018-03-02	A2c-dup180	2018-03-02	OM243216.1	Spain	Europe	Paediatric patient	5 - 14 y/o	Maria Piñana et al.
+MN617525.1|A2c-dup180|Spain|2017-02-11	A2c-dup180	2017-02-11	MN617525.1	Spain	Europe	Adult patient	15 - 64 y/o	Maria Piñana et al.
+OM243602.1|A2c-dup180|Spain|2020-02-24	A2c-dup180	2020-02-24	OM243602.1	Spain	Europe	Paediatric patient	2 - 4 y/o	Maria Piñana et al.
+MN617441.1|A2c-dup180|Spain|2016-02-23	A2c-dup180	2016-02-23	MN617441.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
+MN617510.1|A2c-dup180|Spain|2017-01-14	A2c-dup180	2017-01-14	MN617510.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
+MN617536.1|A2c-dup180|Spain|2017-02-19	A2c-dup180	2017-02-19	MN617536.1	Spain	Europe	Paediatric patient	0 - 2 y/o	Maria Piñana et al.
+OM243177.1|A2c-dup180|Spain|2018-02-02	A2c-dup180	2018-02-02	OM243177.1	Spain	Europe	Paediatric patient	2 - 4 y/o	Maria Piñana et al.
+OM243568.1|A2c-dup111|Spain|2020-02-10	A2c-dup111	2020-02-10	OM243568.1	Spain	Europe	Adult patient	15 - 64 y/o	Maria Piñana et al.
+OM243139.1|A2c-dup111|Spain|2017-08-14	A2c-dup111	2017-08-14	OM243139.1	Spain	Europe	Paediatric patient	0 - 2 y/o	Maria Piñana et al.
+OM243422.1|A2c-dup111|Spain|2019-02-26	A2c-dup111	2019-02-26	OM243422.1	Spain	Europe	Paediatric patient	2 - 4 y/o	Maria Piñana et al.
+MN617503.1|A2c-dup111|Spain|2017-01-05	A2c-dup111	2017-01-05	MN617503.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
+OM243404.1|A2c-dup111|Spain|2019-02-12	A2c-dup111	2019-02-12	OM243404.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
+OM243626.1|A2c-dup111|Spain|2020-03-10	A2c-dup111	2020-03-10	OM243626.1	Spain	Europe	Paediatric patient	2 - 4 y/o	Maria Piñana et al.
+OM243629.1|A2c-dup111|Spain|2020-03-11	A2c-dup111	2020-03-11	OM243629.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
+OM243428.1|A2c-dup111|Spain|2019-03-03	A2c-dup111	2019-03-03	OM243428.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
+MN617546.1|A2c-dup111|Spain|2017-02-27	A2c-dup111	2017-02-27	MN617546.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
+OM243352.1|A2c-dup111|Spain|2018-04-16	A2c-dup111	2018-04-16	OM243352.1	Spain	Europe	Adult patient	15 - 64 y/o	Maria Piñana et al.
+OM243620.1|A2c-dup111|Spain|2020-03-08	A2c-dup111	2020-03-08	OM243620.1	Spain	Europe	Paediatric patient	0 - 2 y/o	Maria Piñana et al.
+MN617535.1|A2c-dup111|Spain|2017-02-18	A2c-dup111	2017-02-18	MN617535.1	Spain	Europe	Paediatric patient	0 - 2 y/o	Maria Piñana et al.
+MN617460.1|A2c-dup111|Spain|2016-03-29	A2c-dup111	2016-03-29	MN617460.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
+OM243580.1|A2c-dup111|Spain|2020-02-19	A2c-dup111	2020-02-19	OM243580.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
+OM243621.1|A2c-dup111|Spain|2020-03-09	A2c-dup111	2020-03-09	OM243621.1	Spain	Europe	Paediatric patient	0 - 2 y/o	Maria Piñana et al.
+OM243202.1|A2c-dup111|Spain|2018-02-22	A2c-dup111	2018-02-22	OM243202.1	Spain	Europe	Adult patient	>64 y/o	Maria Piñana et al.
+OM243304.1|A2c-dup111|Spain|2018-03-26	A2c-dup111	2018-03-26	OM243304.1	Spain	Europe	Adult patient	15 - 64 y/o	Maria Piñana et al.
+OM243368.1|A2c-dup111|Spain|2018-04-26	A2c-dup111	2018-04-26	OM243368.1	Spain	Europe	Paediatric patient	2 - 4 y/o	Maria Piñana et al.
+OM243484.1|A2c-dup111|Spain|2019-04-15	A2c-dup111	2019-04-15	OM243484.1	Spain	Europe	Paediatric patient	0 - 2 y/o	Maria Piñana et al.
+OM243653.1|A2c-dup111|Spain|2021-04-20	A2c-dup111	2021-04-20	OM243653.1	Spain	Europe	Paediatric patient	2 - 4 y/o	Maria Piñana et al.
+OM243655.1|A2c-dup111|Spain|2021-05-06	A2c-dup111	2021-05-06	OM243655.1	Spain	Europe	Paediatric patient	2 - 4 y/o	Maria Piñana et al.
+OM243676.1|A2c-dup111|Spain|2021-06-20	A2c-dup111	2021-06-20	OM243676.1	Spain	Europe	Paediatric patient	2 - 4 y/o	Maria Piñana et al.
+OM243648.1|A2c-dup111|Spain|2021-03-28	A2c-dup111	2021-03-28	OM243648.1	Spain	Europe	Paediatric patient	2 - 4 y/o	Maria Piñana et al.
+OM243683.1|A2c-dup111|Spain|2021-06-30	A2c-dup111	2021-06-30	OM243683.1	Spain	Europe	Paediatric patient	5 - 14 y/o	Maria Piñana et al.
+OM243805.1|A2c-dup111|Spain|2021-01-01	A2c-dup111	2021-01-01	OM243805.1	Spain	Europe	Paediatric patient	2 - 4 y/o	Maria Piñana et al.
+OM243670.1|A2c-dup111|Spain|2021-06-11	A2c-dup111	2021-06-11	OM243670.1	Spain	Europe	Paediatric patient	2 - 4 y/o	Maria Piñana et al.
+OM243651.1|A2c-dup111|Spain|2021-04-05	A2c-dup111	2021-04-05	OM243651.1	Spain	Europe	Paediatric patient	0 - 2 y/o	Maria Piñana et al.
+OM243672.1|A2c-dup111|Spain|2021-06-13	A2c-dup111	2021-06-13	OM243672.1	Spain	Europe	Paediatric patient	5 - 14 y/o	Maria Piñana et al.
+OM243665.1|A2c-dup111|Spain|2021-05-30	A2c-dup111	2021-05-30	OM243665.1	Spain	Europe	Paediatric patient	2 - 4 y/o	Maria Piñana et al.
+OM243682.1|A2c-dup111|Spain|2021-06-29	A2c-dup111	2021-06-29	OM243682.1	Spain	Europe	Paediatric patient	2 - 4 y/o	Maria Piñana et al.
+JN184402.1|B2a|USA|1999-04-11	B2a	1999-04-11	JN184402.1	USA	North America	NA	NA	Piyaratna et al.
+JN184401.1|B1|USA|1998-02-10	B1	1998-02-10	JN184401.1	USA	North America	NA	NA	Piyaratna et al.
+JN184400.1|A2a|USA|1994-04-10	A2a	1994-04-10	JN184400.1	USA	North America	NA	NA	Piyaratna et al.
+MK588635.1|A2a|Zambia|2012-02-26	A2a	2012-02-26	MK588635.1	Zambia	Africa	Paediatric patient	0 - 2 y/o	Kamau et al.
+MK588637.1|B2b|Kenya|2012-10-28	B2b	2012-10-28	MK588637.1	Kenya	Africa	Paediatric patient	0 - 2 y/o	Kamau et al.
+MF045425.1|B2b|USA|2015-06-30	B2b	2015-06-30	MF045425.1	USA	North America	NA	NA	Greninger et al.
+MK588636.1|B1|Kenya|2012-08-23	B1	2012-08-23	MK588636.1	Kenya	Africa	Paediatric patient	2 - 4 y/o	Kamau et al.
+MN306019.1|B1|USA|2018-06-30	B1	2018-06-30	MN306019.1	USA	North America	NA	NA	Lin et al.
+KU821121.1|A1|China|2012-02-21	A1	2012-02-21	KU821121.1	China	Southeast asia	Paediatric patient	0 - 2 y/o	Guo et al.
+MK167039.2|A2c-wt|USA|2017-06-30	A2c-wt	2017-06-30	MK167039.2	USA	North America	NA	NA	Greninger et al.
+MK167040.2|A2c-wt|USA|2017-06-30	A2c-wt	2017-06-30	MK167040.2	USA	North America	NA	NA	Greninger et al.
+MF045424.2|A2c-wt|USA|2015-06-30	A2c-wt	2015-06-30	MF045424.2	USA	North America	NA	NA	Greninger et al.
+MN306024.2|A2c-wt|USA|2019-06-30	A2c-wt	2019-06-30	MN306024.2	USA	North America	NA	NA	Lin et al.
+MN306028.2|A2c-wt|USA|2019-06-30	A2c-wt	2019-06-30	MN306028.2	USA	North America	NA	NA	Lin et al.
+KJ627390.1|A2a|Peru|2009-12-14	A2a	2009-12-14	KJ627390.1	Peru	South America	Adult patient	15 - 64 y/o	Wentworth et al.
+KJ627398.1|A2a|Peru|2011-05-04	A2a	2011-05-04	KJ627398.1	Peru	South America	Paediatric patient	2 - 4 y/o	Wentworth et al.
+KJ627427.1|A2a|Peru|2012-01-06	A2a	2012-01-06	KJ627427.1	Peru	South America	Paediatric patient	2 - 4 y/o	Wentworth et al.
+KJ627416.1|A2a|Peru|2011-05-15	A2a	2011-05-15	KJ627416.1	Peru	South America	Paediatric patient	0 - 2 y/o	Wentworth et al.
+KJ627418.1|A2a|Peru|2011-03-26	A2a	2011-03-26	KJ627418.1	Peru	South America	Paediatric patient	0 - 2 y/o	Wentworth et al.
+KJ627425.1|A2a|Peru|2011-04-16	A2a	2011-04-16	KJ627425.1	Peru	South America	Paediatric patient	0 - 2 y/o	Wentworth et al.
+KJ627394.1|A2a|Peru|2011-01-10	A2a	2011-01-10	KJ627394.1	Peru	South America	Paediatric patient	0 - 2 y/o	Wentworth et al.
+KJ627421.1|A2a|Peru|2011-04-09	A2a	2011-04-09	KJ627421.1	Peru	South America	Paediatric patient	2 - 4 y/o	Wentworth et al.
+KJ627419.1|A2a|Peru|2011-04-05	A2a	2011-04-05	KJ627419.1	Peru	South America	Paediatric patient	0 - 2 y/o	Wentworth et al.
+KJ627388.1|A2a|Peru|2011-04-09	A2a	2011-04-09	KJ627388.1	Peru	South America	Paediatric patient	2 - 4 y/o	Wentworth et al.
+KJ627407.1|A2a|Peru|2011-04-02	A2a	2011-04-02	KJ627407.1	Peru	South America	Paediatric patient	0 - 2 y/o	Wentworth et al.
+KJ627415.1|A2a|Peru|2011-02-16	A2a	2011-02-16	KJ627415.1	Peru	South America	Paediatric patient	2 - 4 y/o	Wentworth et al.
+KJ627433.1|A2a|Peru|2012-01-31	A2a	2012-01-31	KJ627433.1	Peru	South America	Paediatric patient	0 - 2 y/o	Wentworth et al.
+KJ627413.1|A2a|Peru|2012-03-20	A2a	2012-03-20	KJ627413.1	Peru	South America	Paediatric patient	0 - 2 y/o	Wentworth et al.
+KJ627423.1|A2a|Peru|2012-03-28	A2a	2012-03-28	KJ627423.1	Peru	South America	Paediatric patient	5 - 14 y/o	Wentworth et al.
+KC562225.1|A2b|Australia|2003-08-28	A2b	2003-08-28	KC562225.1	Australia	Oceania	NA	NA	Lorenzi et al.
+KC562233.1|A2b|Australia|2003-08-23	A2b	2003-08-23	KC562233.1	Australia	Oceania	NA	NA	Lorenzi et al.
+DQ843659.1|A2b|China|2002-11-11	A2b	2002-11-11	DQ843659.1	China	Southeast asia	Paediatric patient	NA	Zhu et al.
+KC562240.1|A2b|Australia|2003-07-03	A2b	2003-07-03	KC562240.1	Australia	Oceania	NA	NA	Lorenzi et al.
+KC562221.1|A2b|USA|2004-06-28	A2b	2004-06-28	KC562221.1	USA	North America	NA	NA	Lorenzi et al.
+KJ627392.1|A2b|Peru|2008-10-12	A2b	2008-10-12	KJ627392.1	Peru	South America	Paediatric patient	0 - 2 y/o	Wentworth et al.
+KJ627382.1|A2b|Peru|2011-01-16	A2b	2011-01-16	KJ627382.1	Peru	South America	Paediatric patient	5 - 14 y/o	Wentworth et al.
+KJ627401.1|A2b|Peru|2011-02-08	A2b	2011-02-08	KJ627401.1	Peru	South America	Paediatric patient	0 - 2 y/o	Wentworth et al.
+KJ627385.1|A2b|Peru|2009-11-19	A2b	2009-11-19	KJ627385.1	Peru	South America	Paediatric patient	0 - 2 y/o	Wentworth et al.
+KJ627402.1|A2b|Peru|2009-05-03	A2b	2009-05-03	KJ627402.1	Peru	South America	Paediatric patient	0 - 2 y/o	Wentworth et al.
+KJ627417.1|A2b|Peru|2010-07-13	A2b	2010-07-13	KJ627417.1	Peru	South America	Paediatric patient	5 - 14 y/o	Wentworth et al.
+KJ627379.1|A2b|Peru|2009-12-29	A2b	2009-12-29	KJ627379.1	Peru	South America	Adult patient	15 - 64 y/o	Wentworth et al.
+KJ627420.1|A2b|Peru|2009-11-28	A2b	2009-11-28	KJ627420.1	Peru	South America	Paediatric patient	0 - 2 y/o	Wentworth et al.
+KJ627430.1|A2b|Peru|2009-12-19	A2b	2009-12-19	KJ627430.1	Peru	South America	Paediatric patient	5 - 14 y/o	Wentworth et al.
+KJ627412.1|A2b|Peru|2009-09-12	A2b	2009-09-12	KJ627412.1	Peru	South America	Paediatric patient	2 - 4 y/o	Wentworth et al.
+KJ627405.1|A2b|Peru|2010-01-25	A2b	2010-01-25	KJ627405.1	Peru	South America	Paediatric patient	0 - 2 y/o	Wentworth et al.
+KJ627422.1|A2b|Peru|2009-11-05	A2b	2009-11-05	KJ627422.1	Peru	South America	Paediatric patient	0 - 2 y/o	Wentworth et al.
+KC562224.1|A2b|Australia|2003-08-30	A2b	2003-08-30	KC562224.1	Australia	Oceania	NA	NA	Lorenzi et al.
+KC403983.1|A2b|Australia|2004-09-25	A2b	2004-09-25	KC403983.1	Australia	Oceania	NA	NA	Lorenzi et al.
+KC403984.1|A2b|Australia|2004-10-11	A2b	2004-10-11	KC403984.1	Australia	Oceania	NA	NA	Lorenzi et al.
+KY474529.1|A2b|USA|2016-03-14	A2b	2016-03-14	KY474529.1	USA	North America	Paediatric patient	NA	Dehority et al.
+KY474530.1|A2b|USA|2016-03-30	A2b	2016-03-30	KY474530.1	USA	North America	Paediatric patient	NA	Dehority et al.
+KY474537.1|A2b|USA|2016-03-13	A2b	2016-03-13	KY474537.1	USA	North America	Paediatric patient	NA	Dehority et al.
+KC403978.1|A2b|Australia|2004-08-11	A2b	2004-08-11	KC403978.1	Australia	Oceania	NA	NA	Lorenzi et al.
+KJ627381.1|A2b|Peru|2010-06-13	A2b	2010-06-13	KJ627381.1	Peru	South America	Paediatric patient	0 - 2 y/o	Wentworth et al.
+KJ627389.1|A2b|Peru|2010-05-24	A2b	2010-05-24	KJ627389.1	Peru	South America	Paediatric patient	2 - 4 y/o	Wentworth et al.
+KJ627396.1|A2b|Peru|2010-05-26	A2b	2010-05-26	KJ627396.1	Peru	South America	Paediatric patient	2 - 4 y/o	Wentworth et al.
+KJ627411.1|A2b|Peru|2010-05-23	A2b	2010-05-23	KJ627411.1	Peru	South America	Paediatric patient	2 - 4 y/o	Wentworth et al.
+KJ627437.1|A2b|Peru|2011-07-19	A2b	2011-07-19	KJ627437.1	Peru	South America	Paediatric patient	0 - 2 y/o	Wentworth et al.
+KJ627377.1|A2b|Peru|2010-05-22	A2b	2010-05-22	KJ627377.1	Peru	South America	Paediatric patient	5 - 14 y/o	Wentworth et al.
+KJ627387.1|A2b|Peru|2010-01-12	A2b	2010-01-12	KJ627387.1	Peru	South America	Paediatric patient	0 - 2 y/o	Wentworth et al.
+KJ627399.1|A2b|Peru|2010-10-09	A2b	2010-10-09	KJ627399.1	Peru	South America	Paediatric patient	5 - 14 y/o	Wentworth et al.
+KJ627429.1|A2b|Peru|2011-02-05	A2b	2011-02-05	KJ627429.1	Peru	South America	Paediatric patient	0 - 2 y/o	Wentworth et al.
+KJ627393.1|A2b|Peru|2009-11-24	A2b	2009-11-24	KJ627393.1	Peru	South America	Paediatric patient	5 - 14 y/o	Wentworth et al.
+KJ627410.1|A2b|Peru|2009-07-09	A2b	2009-07-09	KJ627410.1	Peru	South America	Paediatric patient	2 - 4 y/o	Wentworth et al.
+KJ627403.1|A2b|Peru|2009-12-26	A2b	2009-12-26	KJ627403.1	Peru	South America	Paediatric patient	5 - 14 y/o	Wentworth et al.
+KJ627436.1|A2b|Peru|2009-12-09	A2b	2009-12-09	KJ627436.1	Peru	South America	Paediatric patient	5 - 14 y/o	Wentworth et al.
+KJ627424.1|A2b|Peru|2009-01-25	A2b	2009-01-25	KJ627424.1	Peru	South America	Paediatric patient	0 - 2 y/o	Wentworth et al.
+KJ627386.1|A2b|Peru|2008-08-31	A2b	2008-08-31	KJ627386.1	Peru	South America	Adult patient	15 - 64 y/o	Wentworth et al.
+KJ627426.1|A2b|Peru|2008-12-10	A2b	2008-12-10	KJ627426.1	Peru	South America	Paediatric patient	0 - 2 y/o	Wentworth et al.
+KJ627404.1|A2b|Peru|2008-11-27	A2b	2008-11-27	KJ627404.1	Peru	South America	Paediatric patient	0 - 2 y/o	Wentworth et al.
+KJ627434.1|A2b|Peru|2008-12-02	A2b	2008-12-02	KJ627434.1	Peru	South America	Adult patient	15 - 64 y/o	Wentworth et al.
+KY474540.1|A2b|USA|2016-04-06	A2b	2016-04-06	KY474540.1	USA	North America	Paediatric patient	NA	Dehority et al.
+KY474533.1|A2b|USA|2016-02-24	A2b	2016-02-24	KY474533.1	USA	North America	Paediatric patient	NA	Dehority et al.
+AY297748.1|B2a|Canada|1998-06-26	B2a	1998-06-26	AY297748.1	Canada	North America	NA	NA	Biacchesi et al.
+KC562231.1|B2a|Australia|2004-07-21	B2a	2004-07-21	KC562231.1	Australia	Oceania	NA	NA	Lorenzi et al.
+KC562237.1|B2a|USA|1995-02-23	B2a	1995-02-23	KC562237.1	USA	North America	NA	NA	Lorenzi et al.
+KC562228.1|B2a|USA|1997-02-19	B2a	1997-02-19	KC562228.1	USA	North America	NA	NA	Lorenzi et al.
+KC562232.1|B2a|USA|2001-02-02	B2a	2001-02-02	KC562232.1	USA	North America	NA	NA	Lorenzi et al.
+DQ843658.1|B2a|China|2002-11-11	B2a	2002-11-11	DQ843658.1	China	Southeast asia	Paediatric patient	NA	Zhu et al.
+KF530178.1|B2a|Australia|2004-10-08	B2a	2004-10-08	KF530178.1	Australia	Oceania	Adult patient	>64 y/o	Lorenzi et al.
+EF535506.1|B2a|Taiwan|2005-06-28	B2a	2005-06-28	EF535506.1	Taiwan	Southeast asia	Paediatric patient	NA	Huang et al.
+KC403972.1|B2b|USA|1991-03-06	B2b	1991-03-06	KC403972.1	USA	North America	NA	NA	Lorenzi et al.
+KC562227.1|B2b|USA|1996-06-26	B2b	1996-06-26	KC562227.1	USA	North America	NA	NA	Lorenzi et al.
+KC562239.1|B2b|USA|1995-10-27	B2b	1995-10-27	KC562239.1	USA	North America	NA	NA	Lorenzi et al.
+KC562229.1|B2b|USA|1996-02-03	B2b	1996-02-03	KC562229.1	USA	North America	NA	NA	Lorenzi et al.
+KC562238.1|B2b|USA|1996-03-08	B2b	1996-03-08	KC562238.1	USA	North America	NA	NA	Lorenzi et al.
+KJ627414.1|B2b|Peru|2010-08-04	B2b	2010-08-04	KJ627414.1	Peru	South America	Paediatric patient	5 - 14 y/o	Wentworth et al.
+KJ627432.1|B2b|Peru|2009-11-28	B2b	2009-11-28	KJ627432.1	Peru	South America	Adult patient	>64 y/o	Wentworth et al.
+HM197719.1|B2b|Rwanda|2008-06-28	B2b	2008-06-28	HM197719.1	Rwanda	Africa	NA	NA	Palacios et al.
+KJ627397.1|B2b|Peru|2010-12-15	B2b	2010-12-15	KJ627397.1	Peru	South America	Paediatric patient	2 - 4 y/o	Wentworth et al.
+MG431250.1|B2b|Brazil|2010-01-02	B2b	2010-01-02	MG431250.1	Brazil	South America	NA	NA	Di Paola et al.
+KC403974.1|B1|USA|1991-02-20	B1	1991-02-20	KC403974.1	USA	North America	NA	NA	Lorenzi et al.
+AY525843.1|B1|Netherlands|1999-06-27	B1	1999-06-27	AY525843.1	Netherlands	Europe	NA	NA	Herfst et al.
+KC562230.1|B1|Australia|2004-03-01	B1	2004-03-01	KC562230.1	Australia	Oceania	NA	NA	Lorenzi et al.
+KF530163.1|B1|Australia|2004-07-03	B1	2004-07-03	KF530163.1	Australia	Oceania	Paediatric patient	0 - 2 y/o	Lorenzi et al.
+KF516922.1|B1|South Korea|2011-08-08	B1	2011-08-08	KF516922.1	South Korea	Southeast asia	NA	NA	Song et al.
+KJ627383.1|B1|Peru|2008-11-19	B1	2008-11-19	KJ627383.1	Peru	South America	Paediatric patient	5 - 14 y/o	Wentworth et al.
+KC562242.1|B1|USA|2004-06-28	B1	2004-06-28	KC562242.1	USA	North America	NA	NA	Lorenzi et al.
+KF530164.1|B1|Australia|2004-08-16	B1	2004-08-16	KF530164.1	Australia	Oceania	Paediatric patient	0 - 2 y/o	Lorenzi et al.
+KF530171.1|B1|Australia|2004-06-19	B1	2004-06-19	KF530171.1	Australia	Oceania	Paediatric patient	5 - 14 y/o	Lorenzi et al.
+KF530167.1|B1|Australia|2004-08-27	B1	2004-08-27	KF530167.1	Australia	Oceania	Paediatric patient	0 - 2 y/o	Lorenzi et al.
+KF530173.1|B1|Australia|2004-07-03	B1	2004-07-03	KF530173.1	Australia	Oceania	Paediatric patient	0 - 2 y/o	Lorenzi et al.
+KC562235.1|B1|USA|2004-06-28	B1	2004-06-28	KC562235.1	USA	North America	NA	NA	Lorenzi et al.
+KC562219.1|B1|USA|2004-10-11	B1	2004-10-11	KC562219.1	USA	North America	NA	NA	Lorenzi et al.
+KJ627435.1|B1|Peru|2009-05-19	B1	2009-05-19	KJ627435.1	Peru	South America	Adult patient	15 - 64 y/o	Wentworth et al.
+KJ627431.1|B1|Peru|2009-04-17	B1	2009-04-17	KJ627431.1	Peru	South America	Paediatric patient	0 - 2 y/o	Wentworth et al.
+KF530179.1|B1|Australia|2003-08-07	B1	2003-08-07	KF530179.1	Australia	Oceania	Paediatric patient	0 - 2 y/o	Lorenzi et al.
+MK820375.1|B1|China|2018-05-14	B1	2018-05-14	MK820375.1	China	Southeast asia	Paediatric patient	NA	Wang et al.
+KC562226.1|A1|Australia|2003-10-01	A1	2003-10-01	KC562226.1	Australia	Oceania	NA	NA	Lorenzi et al.
+AY297749.1|A2a|Canada|1997-06-26	A2a	1997-06-26	AY297749.1	Canada	North America	NA	NA	Biacchesi et al.
+FJ168779.1|A2a|Netherlands|2000-03-29	A2a	2000-03-29	FJ168779.1	Netherlands	Europe	NA	NA	de Graaf et al.
+KF686742.1|A2a|Argentina|2002-06-27	A2a	2002-06-27	KF686742.1	Argentina	South America	Paediatric patient	0 - 2 y/o	Lorenzi et al.
+KC403979.1|A2a|Australia|2003-08-30	A2a	2003-08-30	KC403979.1	Australia	Oceania	NA	NA	Lorenzi et al.
+KC403982.1|A2a|Australia|2003-10-03	A2a	2003-10-03	KC403982.1	Australia	Oceania	NA	NA	Lorenzi et al.
+KC403981.1|A2a|Australia|2003-10-08	A2a	2003-10-08	KC403981.1	Australia	Oceania	NA	NA	Lorenzi et al.
+KY474534.1|A2a|USA|2016-02-29	A2a	2016-02-29	KY474534.1	USA	North America	Paediatric patient	NA	Dehority et al.
+KJ627406.1|A2b|Peru|2010-02-22	A2b	2010-02-22	KJ627406.1	Peru	South America	Adult patient	15 - 64 y/o	Wentworth et al.
+KJ627380.1|A2b|Peru|2010-06-06	A2b	2010-06-06	KJ627380.1	Peru	South America	Paediatric patient	5 - 14 y/o	Wentworth et al.
+KJ627384.1|A2b|Peru|2010-02-06	A2b	2010-02-06	KJ627384.1	Peru	South America	Paediatric patient	0 - 2 y/o	Wentworth et al.
+GQ153651.1|A2c-wt|China|2008-12-12	A2c-wt	2008-12-12	GQ153651.1	China	Southeast asia	Paediatric patient	NA	Zhu et al.
+MN867464.1|A2c-wt|China|2009-02-16	A2c-wt	2009-02-16	MN867464.1	China	Southeast asia	NA	NA	Li et al.
+KY474531.1|A2c-wt|USA|2016-02-01	A2c-wt	2016-02-01	KY474531.1	USA	North America	Paediatric patient	NA	Dehority et al.
+KY474535.1|A2c-wt|USA|2016-03-09	A2c-wt	2016-03-09	KY474535.1	USA	North America	Paediatric patient	NA	Dehority et al.
+KY474544.1|A2c-wt|USA|2016-03-08	A2c-wt	2016-03-08	KY474544.1	USA	North America	Paediatric patient	NA	Dehority et al.
+KY474542.1|A2c-wt|USA|2016-06-06	A2c-wt	2016-06-06	KY474542.1	USA	North America	Paediatric patient	NA	Dehority et al.
+KY474541.1|A2c-wt|USA|2016-04-17	A2c-wt	2016-04-17	KY474541.1	USA	North America	Paediatric patient	NA	Dehority et al.
+KY474539.1|A2c-wt|USA|2016-03-20	A2c-wt	2016-03-20	KY474539.1	USA	North America	Paediatric patient	NA	Dehority et al.
+MN745085.1|A2c-dup111|China|2017-04-19	A2c-dup111	2017-04-19	MN745085.1	China	Southeast asia	Paediatric patient	NA	Wang et al.
+MN745084.1|A2c-dup111|China|2017-04-12	A2c-dup111	2017-04-12	MN745084.1	China	Southeast asia	Paediatric patient	NA	Wang et al.
+MK087726.1|A2c-dup111|China|2018-04-14	A2c-dup111	2018-04-14	MK087726.1	China	Southeast asia	NA	NA	Xu and Chen
+MN745087.1|A2c-dup111|China|2018-03-11	A2c-dup111	2018-03-11	MN745087.1	China	Southeast asia	Paediatric patient	NA	Wang et al.
+MN745086.1|A2c-dup111|China|2017-05-17	A2c-dup111	2017-05-17	MN745086.1	China	Southeast asia	Paediatric patient	NA	Wang et al.
