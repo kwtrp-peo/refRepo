@@ -32,9 +32,9 @@
      "entropy"
   ],
   "filters": [
+    "genotype",
     "country",
     "region",
-    "author",
-    "genotype"
+    "author"
   ]
 }
