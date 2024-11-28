@@ -6,7 +6,7 @@ DQ843658.1	DQ843658.1|B2a|China|2002-11-11	B2a	11/11/2002	DQ843658.1	China	South
 DQ843659.1	DQ843659.1|A2b|China|2002-11-11	A2b	11/11/2002	DQ843659.1	China	Southeast asia	Paediatric patient	NA	Zhu et al.
 EF535506.1	EF535506.1|B2a|Taiwan|2005-06-28	B2a	28/06/2005	EF535506.1	Taiwan	Southeast asia	Paediatric patient	NA	Huang et al.
 FJ168779.1	FJ168779.1|A2a|Netherlands|2000-03-29	A2a	29/03/2000	FJ168779.1	Netherlands	Europe	NA	NA	de Graaf et al.
-GQ153651.1	GQ153651.1|A2c-wt|China|2008-12-12	A2c-wt	12/12/2008	GQ153651.1	China	Southeast asia	Paediatric patient	NA	Zhu et al.
+GQ153651.1	GQ153651.1|A2c-wt|China|2008-12-12	A2c	12/12/2008	GQ153651.1	China	Southeast asia	Paediatric patient	NA	Zhu et al.
 HM197719.1	HM197719.1|B2b|Rwanda|2008-06-28	B2b	28/06/2008	HM197719.1	Rwanda	Africa	NA	NA	Palacios et al.
 JN184400.1	JN184400.1|A2a|USA|1994-04-10	A2a	10/04/1994	JN184400.1	USA	North America	NA	NA	Piyaratna et al.
 JN184401.1	JN184401.1|B1|USA|1998-02-10	B1	10/02/1998	JN184401.1	USA	North America	NA	NA	Piyaratna et al.
@@ -107,31 +107,31 @@ KJ627437.1	KJ627437.1|A2b|Peru|2011-07-19	A2b	19/07/2011	KJ627437.1	Peru	South A
 KU821121.1	KU821121.1|A1|China|2012-02-21	A1	21/02/2012	KU821121.1	China	Southeast asia	Paediatric patient	0 - 2 y/o	Guo et al.
 KY474529.1	KY474529.1|A2b|USA|2016-03-14	A2b	14/03/2016	KY474529.1	USA	North America	Paediatric patient	NA	Dehority et al.
 KY474530.1	KY474530.1|A2b|USA|2016-03-30	A2b	30/03/2016	KY474530.1	USA	North America	Paediatric patient	NA	Dehority et al.
-KY474531.1	KY474531.1|A2c-wt|USA|2016-02-01	A2c-wt	01/02/2016	KY474531.1	USA	North America	Paediatric patient	NA	Dehority et al.
+KY474531.1	KY474531.1|A2c-wt|USA|2016-02-01	A2c	01/02/2016	KY474531.1	USA	North America	Paediatric patient	NA	Dehority et al.
 KY474533.1	KY474533.1|A2b|USA|2016-02-24	A2b	24/02/2016	KY474533.1	USA	North America	Paediatric patient	NA	Dehority et al.
 KY474534.1	KY474534.1|A2a|USA|2016-02-29	A2a	29/02/2016	KY474534.1	USA	North America	Paediatric patient	NA	Dehority et al.
-KY474535.1	KY474535.1|A2c-wt|USA|2016-03-09	A2c-wt	09/03/2016	KY474535.1	USA	North America	Paediatric patient	NA	Dehority et al.
+KY474535.1	KY474535.1|A2c-wt|USA|2016-03-09	A2c	09/03/2016	KY474535.1	USA	North America	Paediatric patient	NA	Dehority et al.
 KY474537.1	KY474537.1|A2b|USA|2016-03-13	A2b	13/03/2016	KY474537.1	USA	North America	Paediatric patient	NA	Dehority et al.
-KY474539.1	KY474539.1|A2c-wt|USA|2016-03-20	A2c-wt	20/03/2016	KY474539.1	USA	North America	Paediatric patient	NA	Dehority et al.
+KY474539.1	KY474539.1|A2c-wt|USA|2016-03-20	A2c	20/03/2016	KY474539.1	USA	North America	Paediatric patient	NA	Dehority et al.
 KY474540.1	KY474540.1|A2b|USA|2016-04-06	A2b	06/04/2016	KY474540.1	USA	North America	Paediatric patient	NA	Dehority et al.
-KY474541.1	KY474541.1|A2c-wt|USA|2016-04-17	A2c-wt	17/04/2016	KY474541.1	USA	North America	Paediatric patient	NA	Dehority et al.
-KY474542.1	KY474542.1|A2c-wt|USA|2016-06-06	A2c-wt	06/06/2016	KY474542.1	USA	North America	Paediatric patient	NA	Dehority et al.
-KY474544.1	KY474544.1|A2c-wt|USA|2016-03-08	A2c-wt	08/03/2016	KY474544.1	USA	North America	Paediatric patient	NA	Dehority et al.
-MF045424.2	MF045424.2|A2c-wt|USA|2015-06-30	A2c-wt	30/06/2015	MF045424.2	USA	North America	NA	NA	Greninger et al.
+KY474541.1	KY474541.1|A2c-wt|USA|2016-04-17	A2c	17/04/2016	KY474541.1	USA	North America	Paediatric patient	NA	Dehority et al.
+KY474542.1	KY474542.1|A2c-wt|USA|2016-06-06	A2c	06/06/2016	KY474542.1	USA	North America	Paediatric patient	NA	Dehority et al.
+KY474544.1	KY474544.1|A2c-wt|USA|2016-03-08	A2c	08/03/2016	KY474544.1	USA	North America	Paediatric patient	NA	Dehority et al.
+MF045424.2	MF045424.2|A2c-wt|USA|2015-06-30	A2c	30/06/2015	MF045424.2	USA	North America	NA	NA	Greninger et al.
 MF045425.1	MF045425.1|B2b|USA|2015-06-30	B2b	30/06/2015	MF045425.1	USA	North America	NA	NA	Greninger et al.
 MG431250.1	MG431250.1|B2b|Brazil|2010-01-02	B2b	02/01/2010	MG431250.1	Brazil	South America	NA	NA	Di Paola et al.
-MK087726.1	MK087726.1|A2c-dup111|China|2018-04-14	A2c-dup111	14/04/2018	MK087726.1	China	Southeast asia	NA	NA	Xu and Chen
-MK167039.2	MK167039.2|A2c-wt|USA|2017-06-30	A2c-wt	30/06/2017	MK167039.2	USA	North America	NA	NA	Greninger et al.
-MK167040.2	MK167040.2|A2c-wt|USA|2017-06-30	A2c-wt	30/06/2017	MK167040.2	USA	North America	NA	NA	Greninger et al.
+MK087726.1	MK087726.1|A2c-dup111|China|2018-04-14	A2c	14/04/2018	MK087726.1	China	Southeast asia	NA	NA	Xu and Chen
+MK167039.2	MK167039.2|A2c-wt|USA|2017-06-30	A2c	30/06/2017	MK167039.2	USA	North America	NA	NA	Greninger et al.
+MK167040.2	MK167040.2|A2c-wt|USA|2017-06-30	A2c	30/06/2017	MK167040.2	USA	North America	NA	NA	Greninger et al.
 MK588635.1	MK588635.1|A2a|Zambia|2012-02-26	A2a	26/02/2012	MK588635.1	Zambia	Africa	Paediatric patient	0 - 2 y/o	Kamau et al.
 MK588636.1	MK588636.1|B1|Kenya|2012-08-23	B1	23/08/2012	MK588636.1	Kenya	Africa	Paediatric patient	2 - 4 y/o	Kamau et al.
 MK588637.1	MK588637.1|B2b|Kenya|2012-10-28	B2b	28/10/2012	MK588637.1	Kenya	Africa	Paediatric patient	0 - 2 y/o	Kamau et al.
 MK820375.1	MK820375.1|B1|China|2018-05-14	B1	14/05/2018	MK820375.1	China	Southeast asia	Paediatric patient	NA	Wang et al.
 MN306019.1	MN306019.1|B1|USA|2018-06-30	B1	30/06/2018	MN306019.1	USA	North America	NA	NA	Lin et al.
-MN306024.2	MN306024.2|A2c-wt|USA|2019-06-30	A2c-wt	30/06/2019	MN306024.2	USA	North America	NA	NA	Lin et al.
-MN306028.2	MN306028.2|A2c-wt|USA|2019-06-30	A2c-wt	30/06/2019	MN306028.2	USA	North America	NA	NA	Lin et al.
-MN745084.1	MN745084.1|A2c-dup111|China|2017-04-12	A2c-dup111	12/04/2017	MN745084.1	China	Southeast asia	Paediatric patient	NA	Wang et al.
-MN745085.1	MN745085.1|A2c-dup111|China|2017-04-19	A2c-dup111	19/04/2017	MN745085.1	China	Southeast asia	Paediatric patient	NA	Wang et al.
-MN745086.1	MN745086.1|A2c-dup111|China|2017-05-17	A2c-dup111	17/05/2017	MN745086.1	China	Southeast asia	Paediatric patient	NA	Wang et al.
-MN745087.1	MN745087.1|A2c-dup111|China|2018-03-11	A2c-dup111	11/03/2018	MN745087.1	China	Southeast asia	Paediatric patient	NA	Wang et al.
-MN867464.1	MN867464.1|A2c-wt|China|2009-02-16	A2c-wt	16/02/2009	MN867464.1	China	Southeast asia	NA	NA	Li et al.
+MN306024.2	MN306024.2|A2c-wt|USA|2019-06-30	A2c	30/06/2019	MN306024.2	USA	North America	NA	NA	Lin et al.
+MN306028.2	MN306028.2|A2c-wt|USA|2019-06-30	A2c	30/06/2019	MN306028.2	USA	North America	NA	NA	Lin et al.
+MN745084.1	MN745084.1|A2c-dup111|China|2017-04-12	A2c	12/04/2017	MN745084.1	China	Southeast asia	Paediatric patient	NA	Wang et al.
+MN745085.1	MN745085.1|A2c-dup111|China|2017-04-19	A2c	19/04/2017	MN745085.1	China	Southeast asia	Paediatric patient	NA	Wang et al.
+MN745086.1	MN745086.1|A2c-dup111|China|2017-05-17	A2c	17/05/2017	MN745086.1	China	Southeast asia	Paediatric patient	NA	Wang et al.
+MN745087.1	MN745087.1|A2c-dup111|China|2018-03-11	A2c	11/03/2018	MN745087.1	China	Southeast asia	Paediatric patient	NA	Wang et al.
+MN867464.1	MN867464.1|A2c-wt|China|2009-02-16	A2c	16/02/2009	MN867464.1	China	Southeast asia	NA	NA	Li et al.
