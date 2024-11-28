@@ -1,0 +1,137 @@
+strain	sequence_id	genotype	date	accession	country	region	cohort	age	author
+AY297748.1	AY297748.1|B2a|Canada|1998-06-26	B2a	26/06/1998	AY297748.1	Canada	North America	NA	NA	Biacchesi et al.
+AY297749.1	AY297749.1|A2a|Canada|1997-06-26	A2a	26/06/1997	AY297749.1	Canada	North America	NA	NA	Biacchesi et al.
+AY525843.1	AY525843.1|B1|Netherlands|1999-06-27	B1	27/06/1999	AY525843.1	Netherlands	Europe	NA	NA	Herfst et al.
+DQ843658.1	DQ843658.1|B2a|China|2002-11-11	B2a	11/11/2002	DQ843658.1	China	Southeast asia	Paediatric patient	NA	Zhu et al.
+DQ843659.1	DQ843659.1|A2b|China|2002-11-11	A2b	11/11/2002	DQ843659.1	China	Southeast asia	Paediatric patient	NA	Zhu et al.
+EF535506.1	EF535506.1|B2a|Taiwan|2005-06-28	B2a	28/06/2005	EF535506.1	Taiwan	Southeast asia	Paediatric patient	NA	Huang et al.
+FJ168779.1	FJ168779.1|A2a|Netherlands|2000-03-29	A2a	29/03/2000	FJ168779.1	Netherlands	Europe	NA	NA	de Graaf et al.
+GQ153651.1	GQ153651.1|A2c-wt|China|2008-12-12	A2c-wt	12/12/2008	GQ153651.1	China	Southeast asia	Paediatric patient	NA	Zhu et al.
+HM197719.1	HM197719.1|B2b|Rwanda|2008-06-28	B2b	28/06/2008	HM197719.1	Rwanda	Africa	NA	NA	Palacios et al.
+JN184400.1	JN184400.1|A2a|USA|1994-04-10	A2a	10/04/1994	JN184400.1	USA	North America	NA	NA	Piyaratna et al.
+JN184401.1	JN184401.1|B1|USA|1998-02-10	B1	10/02/1998	JN184401.1	USA	North America	NA	NA	Piyaratna et al.
+JN184402.1	JN184402.1|B2a|USA|1999-04-11	B2a	11/04/1999	JN184402.1	USA	North America	NA	NA	Piyaratna et al.
+KC403972.1	KC403972.1|B2b|USA|1991-03-06	B2b	06/03/1991	KC403972.1	USA	North America	NA	NA	Lorenzi et al.
+KC403974.1	KC403974.1|B1|USA|1991-02-20	B1	20/02/1991	KC403974.1	USA	North America	NA	NA	Lorenzi et al.
+KC403978.1	KC403978.1|A2b|Australia|2004-08-11	A2b	11/08/2004	KC403978.1	Australia	Oceania	NA	NA	Lorenzi et al.
+KC403979.1	KC403979.1|A2a|Australia|2003-08-30	A2a	30/08/2003	KC403979.1	Australia	Oceania	NA	NA	Lorenzi et al.
+KC403981.1	KC403981.1|A2a|Australia|2003-10-08	A2a	08/10/2003	KC403981.1	Australia	Oceania	NA	NA	Lorenzi et al.
+KC403982.1	KC403982.1|A2a|Australia|2003-10-03	A2a	03/10/2003	KC403982.1	Australia	Oceania	NA	NA	Lorenzi et al.
+KC403983.1	KC403983.1|A2b|Australia|2004-09-25	A2b	25/09/2004	KC403983.1	Australia	Oceania	NA	NA	Lorenzi et al.
+KC403984.1	KC403984.1|A2b|Australia|2004-10-11	A2b	11/10/2004	KC403984.1	Australia	Oceania	NA	NA	Lorenzi et al.
+KC562219.1	KC562219.1|B1|USA|2004-10-11	B1	11/10/2004	KC562219.1	USA	North America	NA	NA	Lorenzi et al.
+KC562221.1	KC562221.1|A2b|USA|2004-06-28	A2b	28/06/2004	KC562221.1	USA	North America	NA	NA	Lorenzi et al.
+KC562222.1	KC562222.1|B2b|USA|1997-02-20	B2b	20/02/1997	KC562222.1	USA	North America	NA	NA	Lorenzi et al.
+KC562223.1	KC562223.1|B1|USA|1993-02-23	B1	23/02/1993	KC562223.1	USA	North America	NA	NA	Lorenzi et al.
+KC562224.1	KC562224.1|A2b|Australia|2003-08-30	A2b	30/08/2003	KC562224.1	Australia	Oceania	NA	NA	Lorenzi et al.
+KC562225.1	KC562225.1|A2b|Australia|2003-08-28	A2b	28/08/2003	KC562225.1	Australia	Oceania	NA	NA	Lorenzi et al.
+KC562226.1	KC562226.1|A1|Australia|2003-10-01	A1	01/10/2003	KC562226.1	Australia	Oceania	NA	NA	Lorenzi et al.
+KC562227.1	KC562227.1|B2b|USA|1996-06-26	B2b	26/06/1996	KC562227.1	USA	North America	NA	NA	Lorenzi et al.
+KC562228.1	KC562228.1|B2a|USA|1997-02-19	B2a	19/02/1997	KC562228.1	USA	North America	NA	NA	Lorenzi et al.
+KC562229.1	KC562229.1|B2b|USA|1996-02-03	B2b	03/02/1996	KC562229.1	USA	North America	NA	NA	Lorenzi et al.
+KC562230.1	KC562230.1|B1|Australia|2004-03-01	B1	01/03/2004	KC562230.1	Australia	Oceania	NA	NA	Lorenzi et al.
+KC562231.1	KC562231.1|B2a|Australia|2004-07-21	B2a	21/07/2004	KC562231.1	Australia	Oceania	NA	NA	Lorenzi et al.
+KC562232.1	KC562232.1|B2a|USA|2001-02-02	B2a	02/02/2001	KC562232.1	USA	North America	NA	NA	Lorenzi et al.
+KC562233.1	KC562233.1|A2b|Australia|2003-08-23	A2b	23/08/2003	KC562233.1	Australia	Oceania	NA	NA	Lorenzi et al.
+KC562234.1	KC562234.1|B1|USA|1999-04-23	B1	23/04/1999	KC562234.1	USA	North America	NA	NA	Lorenzi et al.
+KC562235.1	KC562235.1|B1|USA|2004-06-28	B1	28/06/2004	KC562235.1	USA	North America	NA	NA	Lorenzi et al.
+KC562237.1	KC562237.1|B2a|USA|1995-02-23	B2a	23/02/1995	KC562237.1	USA	North America	NA	NA	Lorenzi et al.
+KC562238.1	KC562238.1|B2b|USA|1996-03-08	B2b	08/03/1996	KC562238.1	USA	North America	NA	NA	Lorenzi et al.
+KC562239.1	KC562239.1|B2b|USA|1995-10-27	B2b	27/10/1995	KC562239.1	USA	North America	NA	NA	Lorenzi et al.
+KC562240.1	KC562240.1|A2b|Australia|2003-07-03	A2b	03/07/2003	KC562240.1	Australia	Oceania	NA	NA	Lorenzi et al.
+KC562242.1	KC562242.1|B1|USA|2004-06-28	B1	28/06/2004	KC562242.1	USA	North America	NA	NA	Lorenzi et al.
+KC562243.1	KC562243.1|A2b|USA|2004-06-28	A2b	28/06/2004	KC562243.1	USA	North America	NA	NA	Lorenzi et al.
+KF516922.1	KF516922.1|B1|South Korea|2011-08-08	B1	08/08/2011	KF516922.1	South Korea	Southeast asia	NA	NA	Song et al.
+KF530163.1	KF530163.1|B1|Australia|2004-07-03	B1	03/07/2004	KF530163.1	Australia	Oceania	Paediatric patient	0 - 2 y/o	Lorenzi et al.
+KF530164.1	KF530164.1|B1|Australia|2004-08-16	B1	16/08/2004	KF530164.1	Australia	Oceania	Paediatric patient	0 - 2 y/o	Lorenzi et al.
+KF530167.1	KF530167.1|B1|Australia|2004-08-27	B1	27/08/2004	KF530167.1	Australia	Oceania	Paediatric patient	0 - 2 y/o	Lorenzi et al.
+KF530171.1	KF530171.1|B1|Australia|2004-06-19	B1	19/06/2004	KF530171.1	Australia	Oceania	Paediatric patient	5 - 14 y/o	Lorenzi et al.
+KF530173.1	KF530173.1|B1|Australia|2004-07-03	B1	03/07/2004	KF530173.1	Australia	Oceania	Paediatric patient	0 - 2 y/o	Lorenzi et al.
+KF530178.1	KF530178.1|B2a|Australia|2004-10-08	B2a	08/10/2004	KF530178.1	Australia	Oceania	Adult patient	>64 y/o	Lorenzi et al.
+KF530179.1	KF530179.1|B1|Australia|2003-08-07	B1	07/08/2003	KF530179.1	Australia	Oceania	Paediatric patient	0 - 2 y/o	Lorenzi et al.
+KF686742.1	KF686742.1|A2a|Argentina|2002-06-27	A2a	27/06/2002	KF686742.1	Argentina	South America	Paediatric patient	0 - 2 y/o	Lorenzi et al.
+KJ627377.1	KJ627377.1|A2b|Peru|2010-05-22	A2b	22/05/2010	KJ627377.1	Peru	South America	Paediatric patient	5 - 14 y/o	Wentworth et al.
+KJ627379.1	KJ627379.1|A2b|Peru|2009-12-29	A2b	29/12/2009	KJ627379.1	Peru	South America	Adult patient	15 - 64 y/o	Wentworth et al.
+KJ627380.1	KJ627380.1|A2b|Peru|2010-06-06	A2b	06/06/2010	KJ627380.1	Peru	South America	Paediatric patient	5 - 14 y/o	Wentworth et al.
+KJ627381.1	KJ627381.1|A2b|Peru|2010-06-13	A2b	13/06/2010	KJ627381.1	Peru	South America	Paediatric patient	0 - 2 y/o	Wentworth et al.
+KJ627382.1	KJ627382.1|A2b|Peru|2011-01-16	A2b	16/01/2011	KJ627382.1	Peru	South America	Paediatric patient	5 - 14 y/o	Wentworth et al.
+KJ627383.1	KJ627383.1|B1|Peru|2008-11-19	B1	19/11/2008	KJ627383.1	Peru	South America	Paediatric patient	5 - 14 y/o	Wentworth et al.
+KJ627384.1	KJ627384.1|A2b|Peru|2010-02-06	A2b	06/02/2010	KJ627384.1	Peru	South America	Paediatric patient	0 - 2 y/o	Wentworth et al.
+KJ627385.1	KJ627385.1|A2b|Peru|2009-11-19	A2b	19/11/2009	KJ627385.1	Peru	South America	Paediatric patient	0 - 2 y/o	Wentworth et al.
+KJ627386.1	KJ627386.1|A2b|Peru|2008-08-31	A2b	31/08/2008	KJ627386.1	Peru	South America	Adult patient	15 - 64 y/o	Wentworth et al.
+KJ627387.1	KJ627387.1|A2b|Peru|2010-01-12	A2b	12/01/2010	KJ627387.1	Peru	South America	Paediatric patient	0 - 2 y/o	Wentworth et al.
+KJ627388.1	KJ627388.1|A2a|Peru|2011-04-09	A2a	09/04/2011	KJ627388.1	Peru	South America	Paediatric patient	2 - 4 y/o	Wentworth et al.
+KJ627389.1	KJ627389.1|A2b|Peru|2010-05-24	A2b	24/05/2010	KJ627389.1	Peru	South America	Paediatric patient	2 - 4 y/o	Wentworth et al.
+KJ627390.1	KJ627390.1|A2a|Peru|2009-12-14	A2a	14/12/2009	KJ627390.1	Peru	South America	Adult patient	15 - 64 y/o	Wentworth et al.
+KJ627392.1	KJ627392.1|A2b|Peru|2008-10-12	A2b	12/10/2008	KJ627392.1	Peru	South America	Paediatric patient	0 - 2 y/o	Wentworth et al.
+KJ627393.1	KJ627393.1|A2b|Peru|2009-11-24	A2b	24/11/2009	KJ627393.1	Peru	South America	Paediatric patient	5 - 14 y/o	Wentworth et al.
+KJ627394.1	KJ627394.1|A2a|Peru|2011-01-10	A2a	10/01/2011	KJ627394.1	Peru	South America	Paediatric patient	0 - 2 y/o	Wentworth et al.
+KJ627396.1	KJ627396.1|A2b|Peru|2010-05-26	A2b	26/05/2010	KJ627396.1	Peru	South America	Paediatric patient	2 - 4 y/o	Wentworth et al.
+KJ627397.1	KJ627397.1|B2b|Peru|2010-12-15	B2b	15/12/2010	KJ627397.1	Peru	South America	Paediatric patient	2 - 4 y/o	Wentworth et al.
+KJ627398.1	KJ627398.1|A2a|Peru|2011-05-04	A2a	04/05/2011	KJ627398.1	Peru	South America	Paediatric patient	2 - 4 y/o	Wentworth et al.
+KJ627399.1	KJ627399.1|A2b|Peru|2010-10-09	A2b	09/10/2010	KJ627399.1	Peru	South America	Paediatric patient	5 - 14 y/o	Wentworth et al.
+KJ627401.1	KJ627401.1|A2b|Peru|2011-02-08	A2b	08/02/2011	KJ627401.1	Peru	South America	Paediatric patient	0 - 2 y/o	Wentworth et al.
+KJ627402.1	KJ627402.1|A2b|Peru|2009-05-03	A2b	03/05/2009	KJ627402.1	Peru	South America	Paediatric patient	0 - 2 y/o	Wentworth et al.
+KJ627403.1	KJ627403.1|A2b|Peru|2009-12-26	A2b	26/12/2009	KJ627403.1	Peru	South America	Paediatric patient	5 - 14 y/o	Wentworth et al.
+KJ627404.1	KJ627404.1|A2b|Peru|2008-11-27	A2b	27/11/2008	KJ627404.1	Peru	South America	Paediatric patient	0 - 2 y/o	Wentworth et al.
+KJ627405.1	KJ627405.1|A2b|Peru|2010-01-25	A2b	25/01/2010	KJ627405.1	Peru	South America	Paediatric patient	0 - 2 y/o	Wentworth et al.
+KJ627406.1	KJ627406.1|A2b|Peru|2010-02-22	A2b	22/02/2010	KJ627406.1	Peru	South America	Adult patient	15 - 64 y/o	Wentworth et al.
+KJ627407.1	KJ627407.1|A2a|Peru|2011-04-02	A2a	02/04/2011	KJ627407.1	Peru	South America	Paediatric patient	0 - 2 y/o	Wentworth et al.
+KJ627410.1	KJ627410.1|A2b|Peru|2009-07-09	A2b	09/07/2009	KJ627410.1	Peru	South America	Paediatric patient	2 - 4 y/o	Wentworth et al.
+KJ627411.1	KJ627411.1|A2b|Peru|2010-05-23	A2b	23/05/2010	KJ627411.1	Peru	South America	Paediatric patient	2 - 4 y/o	Wentworth et al.
+KJ627412.1	KJ627412.1|A2b|Peru|2009-09-12	A2b	12/09/2009	KJ627412.1	Peru	South America	Paediatric patient	2 - 4 y/o	Wentworth et al.
+KJ627413.1	KJ627413.1|A2a|Peru|2012-03-20	A2a	20/03/2012	KJ627413.1	Peru	South America	Paediatric patient	0 - 2 y/o	Wentworth et al.
+KJ627414.1	KJ627414.1|B2b|Peru|2010-08-04	B2b	04/08/2010	KJ627414.1	Peru	South America	Paediatric patient	5 - 14 y/o	Wentworth et al.
+KJ627415.1	KJ627415.1|A2a|Peru|2011-02-16	A2a	16/02/2011	KJ627415.1	Peru	South America	Paediatric patient	2 - 4 y/o	Wentworth et al.
+KJ627416.1	KJ627416.1|A2a|Peru|2011-05-15	A2a	15/05/2011	KJ627416.1	Peru	South America	Paediatric patient	0 - 2 y/o	Wentworth et al.
+KJ627417.1	KJ627417.1|A2b|Peru|2010-07-13	A2b	13/07/2010	KJ627417.1	Peru	South America	Paediatric patient	5 - 14 y/o	Wentworth et al.
+KJ627418.1	KJ627418.1|A2a|Peru|2011-03-26	A2a	26/03/2011	KJ627418.1	Peru	South America	Paediatric patient	0 - 2 y/o	Wentworth et al.
+KJ627419.1	KJ627419.1|A2a|Peru|2011-04-05	A2a	05/04/2011	KJ627419.1	Peru	South America	Paediatric patient	0 - 2 y/o	Wentworth et al.
+KJ627420.1	KJ627420.1|A2b|Peru|2009-11-28	A2b	28/11/2009	KJ627420.1	Peru	South America	Paediatric patient	0 - 2 y/o	Wentworth et al.
+KJ627421.1	KJ627421.1|A2a|Peru|2011-04-09	A2a	09/04/2011	KJ627421.1	Peru	South America	Paediatric patient	2 - 4 y/o	Wentworth et al.
+KJ627422.1	KJ627422.1|A2b|Peru|2009-11-05	A2b	05/11/2009	KJ627422.1	Peru	South America	Paediatric patient	0 - 2 y/o	Wentworth et al.
+KJ627423.1	KJ627423.1|A2a|Peru|2012-03-28	A2a	28/03/2012	KJ627423.1	Peru	South America	Paediatric patient	5 - 14 y/o	Wentworth et al.
+KJ627424.1	KJ627424.1|A2b|Peru|2009-01-25	A2b	25/01/2009	KJ627424.1	Peru	South America	Paediatric patient	0 - 2 y/o	Wentworth et al.
+KJ627425.1	KJ627425.1|A2a|Peru|2011-04-16	A2a	16/04/2011	KJ627425.1	Peru	South America	Paediatric patient	0 - 2 y/o	Wentworth et al.
+KJ627426.1	KJ627426.1|A2b|Peru|2008-12-10	A2b	10/12/2008	KJ627426.1	Peru	South America	Paediatric patient	0 - 2 y/o	Wentworth et al.
+KJ627427.1	KJ627427.1|A2a|Peru|2012-01-06	A2a	06/01/2012	KJ627427.1	Peru	South America	Paediatric patient	2 - 4 y/o	Wentworth et al.
+KJ627429.1	KJ627429.1|A2b|Peru|2011-02-05	A2b	05/02/2011	KJ627429.1	Peru	South America	Paediatric patient	0 - 2 y/o	Wentworth et al.
+KJ627430.1	KJ627430.1|A2b|Peru|2009-12-19	A2b	19/12/2009	KJ627430.1	Peru	South America	Paediatric patient	5 - 14 y/o	Wentworth et al.
+KJ627431.1	KJ627431.1|B1|Peru|2009-04-17	B1	17/04/2009	KJ627431.1	Peru	South America	Paediatric patient	0 - 2 y/o	Wentworth et al.
+KJ627432.1	KJ627432.1|B2b|Peru|2009-11-28	B2b	28/11/2009	KJ627432.1	Peru	South America	Adult patient	>64 y/o	Wentworth et al.
+KJ627433.1	KJ627433.1|A2a|Peru|2012-01-31	A2a	31/01/2012	KJ627433.1	Peru	South America	Paediatric patient	0 - 2 y/o	Wentworth et al.
+KJ627434.1	KJ627434.1|A2b|Peru|2008-12-02	A2b	02/12/2008	KJ627434.1	Peru	South America	Adult patient	15 - 64 y/o	Wentworth et al.
+KJ627435.1	KJ627435.1|B1|Peru|2009-05-19	B1	19/05/2009	KJ627435.1	Peru	South America	Adult patient	15 - 64 y/o	Wentworth et al.
+KJ627436.1	KJ627436.1|A2b|Peru|2009-12-09	A2b	09/12/2009	KJ627436.1	Peru	South America	Paediatric patient	5 - 14 y/o	Wentworth et al.
+KJ627437.1	KJ627437.1|A2b|Peru|2011-07-19	A2b	19/07/2011	KJ627437.1	Peru	South America	Paediatric patient	0 - 2 y/o	Wentworth et al.
+KU821121.1	KU821121.1|A1|China|2012-02-21	A1	21/02/2012	KU821121.1	China	Southeast asia	Paediatric patient	0 - 2 y/o	Guo et al.
+KY474529.1	KY474529.1|A2b|USA|2016-03-14	A2b	14/03/2016	KY474529.1	USA	North America	Paediatric patient	NA	Dehority et al.
+KY474530.1	KY474530.1|A2b|USA|2016-03-30	A2b	30/03/2016	KY474530.1	USA	North America	Paediatric patient	NA	Dehority et al.
+KY474531.1	KY474531.1|A2c-wt|USA|2016-02-01	A2c-wt	01/02/2016	KY474531.1	USA	North America	Paediatric patient	NA	Dehority et al.
+KY474533.1	KY474533.1|A2b|USA|2016-02-24	A2b	24/02/2016	KY474533.1	USA	North America	Paediatric patient	NA	Dehority et al.
+KY474534.1	KY474534.1|A2a|USA|2016-02-29	A2a	29/02/2016	KY474534.1	USA	North America	Paediatric patient	NA	Dehority et al.
+KY474535.1	KY474535.1|A2c-wt|USA|2016-03-09	A2c-wt	09/03/2016	KY474535.1	USA	North America	Paediatric patient	NA	Dehority et al.
+KY474537.1	KY474537.1|A2b|USA|2016-03-13	A2b	13/03/2016	KY474537.1	USA	North America	Paediatric patient	NA	Dehority et al.
+KY474539.1	KY474539.1|A2c-wt|USA|2016-03-20	A2c-wt	20/03/2016	KY474539.1	USA	North America	Paediatric patient	NA	Dehority et al.
+KY474540.1	KY474540.1|A2b|USA|2016-04-06	A2b	06/04/2016	KY474540.1	USA	North America	Paediatric patient	NA	Dehority et al.
+KY474541.1	KY474541.1|A2c-wt|USA|2016-04-17	A2c-wt	17/04/2016	KY474541.1	USA	North America	Paediatric patient	NA	Dehority et al.
+KY474542.1	KY474542.1|A2c-wt|USA|2016-06-06	A2c-wt	06/06/2016	KY474542.1	USA	North America	Paediatric patient	NA	Dehority et al.
+KY474544.1	KY474544.1|A2c-wt|USA|2016-03-08	A2c-wt	08/03/2016	KY474544.1	USA	North America	Paediatric patient	NA	Dehority et al.
+MF045424.2	MF045424.2|A2c-wt|USA|2015-06-30	A2c-wt	30/06/2015	MF045424.2	USA	North America	NA	NA	Greninger et al.
+MF045425.1	MF045425.1|B2b|USA|2015-06-30	B2b	30/06/2015	MF045425.1	USA	North America	NA	NA	Greninger et al.
+MG431250.1	MG431250.1|B2b|Brazil|2010-01-02	B2b	02/01/2010	MG431250.1	Brazil	South America	NA	NA	Di Paola et al.
+MK087726.1	MK087726.1|A2c-dup111|China|2018-04-14	A2c-dup111	14/04/2018	MK087726.1	China	Southeast asia	NA	NA	Xu and Chen
+MK167039.2	MK167039.2|A2c-wt|USA|2017-06-30	A2c-wt	30/06/2017	MK167039.2	USA	North America	NA	NA	Greninger et al.
+MK167040.2	MK167040.2|A2c-wt|USA|2017-06-30	A2c-wt	30/06/2017	MK167040.2	USA	North America	NA	NA	Greninger et al.
+MK588635.1	MK588635.1|A2a|Zambia|2012-02-26	A2a	26/02/2012	MK588635.1	Zambia	Africa	Paediatric patient	0 - 2 y/o	Kamau et al.
+MK588636.1	MK588636.1|B1|Kenya|2012-08-23	B1	23/08/2012	MK588636.1	Kenya	Africa	Paediatric patient	2 - 4 y/o	Kamau et al.
+MK588637.1	MK588637.1|B2b|Kenya|2012-10-28	B2b	28/10/2012	MK588637.1	Kenya	Africa	Paediatric patient	0 - 2 y/o	Kamau et al.
+MK820375.1	MK820375.1|B1|China|2018-05-14	B1	14/05/2018	MK820375.1	China	Southeast asia	Paediatric patient	NA	Wang et al.
+MN306019.1	MN306019.1|B1|USA|2018-06-30	B1	30/06/2018	MN306019.1	USA	North America	NA	NA	Lin et al.
+MN306024.2	MN306024.2|A2c-wt|USA|2019-06-30	A2c-wt	30/06/2019	MN306024.2	USA	North America	NA	NA	Lin et al.
+MN306028.2	MN306028.2|A2c-wt|USA|2019-06-30	A2c-wt	30/06/2019	MN306028.2	USA	North America	NA	NA	Lin et al.
+MN745084.1	MN745084.1|A2c-dup111|China|2017-04-12	A2c-dup111	12/04/2017	MN745084.1	China	Southeast asia	Paediatric patient	NA	Wang et al.
+MN745085.1	MN745085.1|A2c-dup111|China|2017-04-19	A2c-dup111	19/04/2017	MN745085.1	China	Southeast asia	Paediatric patient	NA	Wang et al.
+MN745086.1	MN745086.1|A2c-dup111|China|2017-05-17	A2c-dup111	17/05/2017	MN745086.1	China	Southeast asia	Paediatric patient	NA	Wang et al.
+MN745087.1	MN745087.1|A2c-dup111|China|2018-03-11	A2c-dup111	11/03/2018	MN745087.1	China	Southeast asia	Paediatric patient	NA	Wang et al.
+MN867464.1	MN867464.1|A2c-wt|China|2009-02-16	A2c-wt	16/02/2009	MN867464.1	China	Southeast asia	NA	NA	Li et al.
